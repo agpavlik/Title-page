@@ -2,18 +2,17 @@
 
 
 
-<!-- <div id="header" align="center">
+<div id="header" align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2I1czBzNmRsdWs5dHRvaDVuY2FtaGU1MXBzOWU0c2kyemZmdWNlayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/iFaPIqooUgZ2MkVNJI/giphy-downsized-large.gif" width="100"/>
-</div> -->
+</div>
 
 </br>
 <h1 align="center">Alexander Pavlyk</h1>
 <h2 align="center">Full-Stack Developer</h2>
 <h3 align="center">Specializing in Front-End Development</h3>
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnRsb2MxeWpjNDJuYzQzeGF0anNpd201dDR5d3F3eW15ZjhxeXMxYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/dioml5wsoBZYqJGqip/giphy.gif" width="15%"/>
-</div>
+  <img align="center" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnRsb2MxeWpjNDJuYzQzeGF0anNpd201dDR5d3F3eW15ZjhxeXMxYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/dioml5wsoBZYqJGqip/giphy.gif" width="15%"/>
+
 
 I specialize in building responsive and user-friendly web applications using modern web technologies. I love working on both the front-end and back-end, and I have experience working with a wide range of programming languages and frameworks.
 I'm always excited to meet new people and collaborate on interesting projects. Feel free to connect with me on LinkedIn or Twitter. Let's build something awesome together!
@@ -67,33 +66,32 @@ I love a challenge, and the excitement of building something new
 Fun Fact: I am a dual Canadian/American citizen
 In my free time I enjoy playing soccer or guitar
 
+A Data engineer passionate about Data Science bar_chart. I like automating, building scalable pipelines, improving and optimizing systems. I am a Strong Advocate for scroll open source, cloud Cloud computing, rocket DevOps, new Innovation and Automation robot
 
+seedling I’m currently pursuing Masters in Data Analytics Engineering at Northeastern University, Boston
+zap Fun fact: I strongly believe in the Chaos theory: Even in unpredictable environments with seemingly random oddities and irregularities lies a predictable & sensible pattern not seen initially.
+💡 I'm interested in all things data: Big Data, Cloud, Machine Learning and Data Science
+speech_balloon Talk to me about Formula 1 racing_car, Memes, Anime, Movies movie_camera, Genshin Impact video_game, Amateur Photography camera_flash
 
 <h3>Resume <a href="./Alexander_Pavlyk_Resume.pdf">📄</a> </h3>
 
 
-
+<img width="50px" src="images/cv-black.png" onmouseover="this.src='images/discord.png'" onmouseout="this.src='images/cv-black.png'" /> 
 
 
 
 <h3 align="center">Let's Connect:</h3>
 <p align="center">
-  <a href="" target="_blank">
-    <img alt="Linkedin" src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" style="margin-bottom: 5px;">
-  </a>
-  <a href="mailto:quintal.jenn@gmail.com?subject=Found%20you%20on%20Github!&body=Hi%20Jenn%2C" target="_blank">
-    <img alt="GMAIL" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="margin-bottom: 5px;">
+  <a href="https://www.linkedin.com/in/alex-pavlyk/" target="_blank" rel="noreferrer">
+    <img src="images/linkedin-one.png" width="32" height="32" />
+  </a>&nbsp&nbsp&nbsp
+  <a href="" target="_blank" rel="noreferrer">
+    <img src="images/discord.png" width="32" height="32"/>
+  </a>&nbsp&nbsp&nbsp
+  <a href="agpavlik@gmail.com" target="_blank" rel="noreferrer">
+    <img src="images/gmail-one.png" width="32" height="32" />
   </a>
 </p>
-
-</br>
-
-<p align="left"> 
-<a href="" target="_blank" rel="noreferrer"><img src="images/discord.svg" width="32" height="32"/></a>
-<a href="https://github.com/agpavlik?tab=repositories" target="_blank" rel="noreferrer"><img src="images/github.svg" width="32" height="32" />  </a> 
-<a href="https://www.linkedin.com/in/alex-pavlyk/" target="_blank" rel="noreferrer"><img src="images/linkedin.svg" width="32" height="32" />  </a></p>
-
-
 
 ---
 <details>
@@ -252,6 +250,12 @@ In my free time I enjoy playing soccer or guitar
         <img src="images/linux.svg" width="48" height="48" alt="LINUX"/>
         <br/><strong>Linux</strong>
       </td>
+      <td align="center" height="108" min-width="108">
+        <a href="https://code.visualstudio.com/">
+          <img src="images/vs.png" width="48" height="48" alt="VSCODE"/>
+        </a>
+        <br/><strong>VS Code</strong>
+      </td>
     </tr>
   </table>
 </details>
@@ -404,7 +408,7 @@ In my free time I enjoy playing soccer or guitar
   <summary style="font-size:24px">Most Used Languages</summary>
   <br>
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agpavlik&layout=pie&langs_count=10&title_color=58A6FF&text_color=C3D1D9&icon_color=1F6FEB&bg_color=0D1117&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agpavlik&layout=pie&langs_count=20&title_color=58A6FF&text_color=C3D1D9&icon_color=1F6FEB&bg_color=0D1117&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 </details>
 
@@ -430,28 +434,6 @@ In my free time I enjoy playing soccer or guitar
 
 ---
 
-
-
-
-
-
-
-
-
-<!-- <details>
-  <summary style="font-size:24px"> GitHub Stats 📊 </summary>
-  <br>
-	<div align="center">  
-  <img height="180em" src="https://github-readme-stats-a4kc.vercel.app/api?username=agpavlik&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=react" />
-  <br>
-  <img height="180em" src="https://github-readme-stats-a4kc.vercel.app/api/top-langs/?username=agpavlik&layout=compact&show_icons=true&langs_count=8&line_height=20&theme=react" />
-</div>
-
 <br>
-</details> -->
 
-
-
-
-
-
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=agpavlik&label=VISITORS&labelColor=%230d1117&countColor=%231f6feb&style=plastic&labelStyle=none)](https://visitorbadge.io/status?path=agpavlik)
