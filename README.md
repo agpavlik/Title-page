@@ -18,14 +18,13 @@
 
 </br>
 
+
   <div width="100%" margin="10px" align="center">
-  <a href="https://github.com/agpavlik/LHL-project-MythiCare" align="left"><img align="left" width="100%" color="#66b2b2" src="https://github-readme-stats.vercel.app/api/pin/?username=agpavlik&repo=LHL-project-MythiCare&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en"/>
-  </a>
+  <a href="https://github.com/agpavlik/LHL-project-MythiCare" align="left"><img align="left" width="50%" color="#66b2b2" src="https://github-readme-stats.vercel.app/api/pin/?username=agpavlik&repo=LHL-project-MythiCare&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
+  <a href="https://github.com/agpavlik/LHL-project-MythiCare" align="right"><img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/pin/?username=agpavlik&repo=LHL-project-MythiCare&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
+  <a href="https://github.com/agpavlik/LHL-project-MythiCare" align="left"><img align="left" width="50%" bordercolor="#66b2b2" src="https://github-readme-stats.vercel.app/api/pin/?username=agpavlik&repo=LHL-project-MythiCare&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
+  <a href="https://github.com/agpavlik/LHL-project-MythiCare" align="right"><img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/pin/?username=agpavlik&repo=natours&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
   </div>
-
-
-
-
 
 I specialize in building responsive and user-friendly web applications using modern web technologies. I love working on both the front-end and back-end, and I have experience working with a wide range of programming languages and frameworks.
 I'm always excited to meet new people and collaborate on interesting projects. Feel free to connect with me on LinkedIn or Twitter. Let's build something awesome together!
@@ -265,12 +264,7 @@ speech_balloon Talk to me about Formula 1 racing_car, Memes, Anime, Movies movie
 
 <details>
   <summary style="font-size:24px">Projects 🔥</summary>
-    <div width="100%" margin="10px" align="center">
-    <a href="https://github.com/agpavlik/LHL-project-MythiCare" align="left"><img align="left" width="50%" color="#66b2b2" src="https://github-readme-stats.vercel.app/api/pin/?username=agpavlik&repo=LHL-project-MythiCare&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
-    <a href="https://github.com/agpavlik/LHL-project-MythiCare" align="right"><img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/pin/?username=agpavlik&repo=LHL-project-MythiCare&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
-    <a href="https://github.com/agpavlik/LHL-project-MythiCare" align="left"><img align="left" width="50%" bordercolor="#66b2b2" src="https://github-readme-stats.vercel.app/api/pin/?username=agpavlik&repo=LHL-project-MythiCare&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
-    <a href="https://github.com/agpavlik/LHL-project-MythiCare" align="right"><img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/pin/?username=agpavlik&repo=natours&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
-    </div>
+
 
 
 <table bordercolor="#66b2b2">
@@ -373,18 +367,17 @@ speech_balloon Talk to me about Formula 1 racing_car, Memes, Anime, Movies movie
 <section align="center">
 <table bordercolor="#66b2b2">
   <tr>
-    <td width="50%" bordercolor="#66b2b2" background_color=1c1917 valign="top">
-      <h3>Pollarizing</h3>
+    <td width="50%" valign="top">
+      <h3 align="center">Pollarizing</h3>
 
 ![](https://github.com/agpavlik/LHL-project-decision-maker/blob/master/public/images/demo11.gif)
 
-  <p>
   <a href="https://github.com/agpavlik/LHL-project-decision-maker" target="_blank">
     <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github">
   </a> 
-      </p>
-        <p><strong>React, SCSS </p>
-    </td>
+  <p><strong>JavaScript, HTML, SASS, Bootstrap, Express, PostgreSQL, Chart.js</strong></p>
+  <p>Application allows users to make a decision by creating polls and voting.</p>
+  </td>
     <td width="50%" bordercolor="#66b2b2" valign="top">
       <h3>MythiCare</h3>
 
@@ -435,6 +428,6 @@ speech_balloon Talk to me about Formula 1 racing_car, Memes, Anime, Movies movie
 
 ---
 
-<br>
+
 
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=agpavlik&label=VISITORS&labelColor=%230d1117&countColor=%231f6feb&style=plastic&labelStyle=none)](https://visitorbadge.io/status?path=agpavlik)
