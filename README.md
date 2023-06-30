@@ -409,7 +409,7 @@ speech_balloon Talk to me about Formula 1 racing_car, Memes, Anime, Movies movie
 ---
 
 <details>
-  <summary style="font-size:24px"> GitHub Stats 📊 </summary>
+  <summary><h3>GitHub Stats 📊 </h3></summary>
   <br>
   
   ![github_dark](https://github-readme-stats.vercel.app/api?username=agpavlik&show_icons=true&show_contribs=true@show_prs=true&hide_border=true&cache_seconds=86400&theme=github_dark)
@@ -421,7 +421,7 @@ speech_balloon Talk to me about Formula 1 racing_car, Memes, Anime, Movies movie
 ---
 
 <details>
-  <summary style="font-size:28px">GitHub Trophies 🏆</summary>
+  <summary><h4>GitHub Trophies 🏆</h4></summary>
 <img src="https://github-profile-trophy.vercel.app/?username=agpavlik&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
 
 </details>
