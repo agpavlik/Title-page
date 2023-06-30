@@ -1,15 +1,19 @@
 
+<div style="background-color:#0D1117; display:flex; text-align:center; vertical-align: middle; padding: 10px 30px;">
 
+<div width="50%">
+<h1 style="align:center; color:#C3D1D9;">Alexander Pavlyk</h1>
+<h3 style="align:center; color:#58A6FF;">Full-Stack Developer</h3>
 
-
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2I1czBzNmRsdWs5dHRvaDVuY2FtaGU1MXBzOWU0c2kyemZmdWNlayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/iFaPIqooUgZ2MkVNJI/giphy-downsized-large.gif" width="100"/>
+</div>
+<div width="50%" align="right">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2I1czBzNmRsdWs5dHRvaDVuY2FtaGU1MXBzOWU0c2kyemZmdWNlayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/iFaPIqooUgZ2MkVNJI/giphy-downsized-large.gif" width="20%"/>
+</div>
 </div>
 
+
 </br>
-<h1 align="center">Alexander Pavlyk</h1>
-<h2 align="center">Full-Stack Developer</h2>
-<h3 align="center">Specializing in Front-End Development</h3>
+
 
   <img align="center" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnRsb2MxeWpjNDJuYzQzeGF0anNpd201dDR5d3F3eW15ZjhxeXMxYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/dioml5wsoBZYqJGqip/giphy.gif" width="15%"/>
 
@@ -73,23 +77,23 @@ zap Fun fact: I strongly believe in the Chaos theory: Even in unpredictable envi
 💡 I'm interested in all things data: Big Data, Cloud, Machine Learning and Data Science
 speech_balloon Talk to me about Formula 1 racing_car, Memes, Anime, Movies movie_camera, Genshin Impact video_game, Amateur Photography camera_flash
 
-<h3>Resume <a href="./Alexander_Pavlyk_Resume.pdf">📄</a> </h3>
+<h3>Resume <a href="./Alexander_Pavlyk_Resume.pdf"><img width="50px" src="images/cv-black.png" onmouseover='this.src="images/discord.png"' onmouseout="this.src='images/cv-black.png'"></a> </h3>
 
 
-<img width="50px" src="images/cv-black.png" onmouseover="this.src='images/discord.png'" onmouseout="this.src='images/cv-black.png'" /> 
+
 
 
 
 <h3 align="center">Let's Connect:</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/alex-pavlyk/" target="_blank" rel="noreferrer">
-    <img src="images/linkedin-one.png" width="32" height="32" />
+    <img src="images/linkedin-one.png" width="40" height="40" />
   </a>&nbsp&nbsp&nbsp
   <a href="" target="_blank" rel="noreferrer">
-    <img src="images/discord.png" width="32" height="32"/>
+    <img src="images/discord.png" width="40" height="40"/>
   </a>&nbsp&nbsp&nbsp
   <a href="agpavlik@gmail.com" target="_blank" rel="noreferrer">
-    <img src="images/gmail-one.png" width="32" height="32" />
+    <img src="images/gmail-one.png" width="40" height="40" />
   </a>
 </p>
 
@@ -405,7 +409,7 @@ speech_balloon Talk to me about Formula 1 racing_car, Memes, Anime, Movies movie
 ---
 
 <details>
-  <summary style="font-size:24px">Most Used Languages</summary>
+  <summary style="font-size:24px">Most Used Languages 💡</summary>
   <br>
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agpavlik&layout=pie&langs_count=20&title_color=58A6FF&text_color=C3D1D9&icon_color=1F6FEB&bg_color=0D1117&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
