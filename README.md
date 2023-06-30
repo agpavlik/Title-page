@@ -98,35 +98,36 @@ In my free time I enjoy playing soccer or guitar
 ---
 <details>
   <summary style="font-size:24px">Technologies & Tools 🛠️</summary>
+  <br>
   <table>  
     <tr>
       <td>Languages</td>
       <td align="center" height="108" width="108">
         <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-          <img src="images/html.svg" width="40" height="40" alt="HTML"/>
+          <img src="images/html.svg" width="48" height="48" alt="HTML"/>
         </a>
         <br/><strong>HTML</strong>
       </td>
       <td align="center" height="108" width="108">
         <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-          <img src="images/css.svg" width="40" height="40" alt="CSS"/>
+          <img src="images/css.svg" width="48" height="48" alt="CSS"/>
         </a>
         <br/><strong>CSS</strong>
       </td>
       <td align="center" height="108" width="108">
         <a href="https://www.javascript.com/">
-          <img src="images/javascript.svg" width="40" height="40" alt="JAVASCRIPT"/>
+          <img src="images/javascript.svg" width="48" height="48" alt="JAVASCRIPT"/>
         </a>
         <br/><strong>JavaScript</strong>
       </td>
       <td align="center" height="108" width="108">
         <a href="https://rubyonrails.org/">
-          <img src="images/ruby.png" width="40" height="40" alt="RUBY"/>
+          <img src="images/ruby.png" width="48" height="48" alt="RUBY"/>
         </a>
         <br/><strong>Ruby</strong>
       </td>
       <td align="center" height="108" width="108">
-        <a href="https://developer.mozilla.org/en-US/docs/Glossary/SQL"><img src="images/sql.png" width="40" height="40" alt="SQL"/>
+        <a href="https://developer.mozilla.org/en-US/docs/Glossary/SQL"><img src="images/sql.png" width="48" height="48" alt="SQL"/>
         </a>
         <br/><strong>SQL</strong>
       </td>
@@ -135,43 +136,43 @@ In my free time I enjoy playing soccer or guitar
       <td>Frameworks & Libraries</td>    
       <td align="center" height="108" width="108">
         <a href="https://reactjs.org/">
-          <img src="images/react.png" width="40" height="40" alt="REACT"/>
+          <img src="images/react.png" width="48" height="48" alt="REACT"/>
         </a>
         <br/><strong>React</strong>
       </td>
       <td align="center" height="108" width="108">
         <a href="https://nodejs.org/en/">
-          <img src="images/node.png" width="40" height="40" alt="NODEJS"/>
+          <img src="images/node.png" width="48" height="48" alt="NODEJS"/>
         </a>
         <br/><strong>NodeJS</strong>
       </td>
       <td align="center" height="108" width="108">
         <a href="https://expressjs.com/">
-          <img src="images/express.png" width="40" height="40" alt="EXPRESS"/>
+          <img src="images/express.png" width="48" height="48" alt="EXPRESS"/>
         </a>
         <br/><strong>Express</strong>
       </td>
       <td align="center" height="108" width="108">
         <a href="https://sass-lang.com/">
-          <img src="images/sass.svg" width="40" height="40" alt="SASS"/>
+          <img src="images/sass.svg" width="48" height="48" alt="SASS"/>
         </a>
         <br/><strong>SASS</strong>
       </td>
       <td align="center" height="108" width="108">
         <a href="https://getbootstrap.com/">
-          <img src="images/bootstrap.png" width="40" height="40" alt="Bootstrap"/>
+          <img src="images/bootstrap.png" width="48" height="48" alt="Bootstrap"/>
         </a>
         <br/><strong>Bootstrap</strong>
       </td>
       <td align="center" height="108" width="108">
         <a href="https://jquery.com/">
-          <img src="images/jquery.svg" width="40" height="40" alt="JQUERY"/>
+          <img src="images/jquery.svg" width="48" height="48" alt="JQUERY"/>
         </a>
         <br/><strong>jQuery</strong>
       </td>
       <td align="center" height="108" width="108">
         <a href="https://rubyonrails.org/">
-          <img src="images/rails.png" width="40" height="40" alt="RAILS"/>
+          <img src="images/rails.png" width="48" height="48" alt="RAILS"/>
         </a>
         <br/><strong>Rails</strong>
       </td> 
@@ -180,13 +181,13 @@ In my free time I enjoy playing soccer or guitar
       <td>Databases</td>
       <td align="center" height="108" width="108">
         <a href="https://www.mongodb.com/">
-          <img src="images/mongodb.png" width="40" height="40" alt="MONGODB"/>
+          <img src="images/mongodb.png" width="48" height="48" alt="MONGODB"/>
         </a>
         <br/><strong>MongoDB</strong>
       </td>
       <td align="center" height="108" width="108">
         <a href="https://www.postgresql.org/">
-          <img src="images/postgresql.png" width="40" height="40"alt="POSTGRESQL"/>
+          <img src="images/postgresql.png" width="48" height="48"alt="POSTGRESQL"/>
         </a>
         <br/><strong>PostgreSQL</strong>
       </td>    
@@ -195,29 +196,29 @@ In my free time I enjoy playing soccer or guitar
       <td>Testing</td>
       <td align="center" height="108" width="108">
         <a href="https://www.cypress.io/">
-          <img src="images/cypress.png" width="40" height="40" alt="CYPRESS"/>
+          <img src="images/cypress.png" width="48" height="48" alt="CYPRESS"/>
         </a>
         <br/><strong>Cypress</strong>
       </td>
       <td align="center" height="108" width="108">
-        <img src="images/jest.svg" width="40" height="40" alt="JEST"/>
+        <img src="images/jest.svg" width="48" height="48" alt="JEST"/>
         <br/><strong>Jest</strong>
       </td>
       <td align="center" height="108" width="108">
         <a href="https://mochajs.org/">
-          <img src="images/mocha.png" width="40" height="40" alt="MOCHA"/>
+          <img src="images/mocha.png" width="48" height="48" alt="MOCHA"/>
         </a>
         <br/><strong>Mocha</strong>
       </td>
       <td align="center" height="108" width="108">
         <a href="https://www.chaijs.com/">
-          <img src="images/chai.png" width="40" height="40" alt="CHAI"/>
+          <img src="images/chai.png" width="48" height="48" alt="CHAI"/>
         </a>
         <br/><strong>Chai</strong>
       </td>
       <td align="center" height="108" width="108">
         <a href="https://rspec.info/">
-          <img src="images/rspec.png" width="40" height="40" alt="RSPEC"/>
+          <img src="images/rspec.png" width="48" height="48" alt="RSPEC"/>
         </a>
         <br/><strong>RSpec</strong>
       </td>
@@ -225,18 +226,18 @@ In my free time I enjoy playing soccer or guitar
     <tr>
       <td>Design</td>
       <td align="center" height="108" min-width="108">
-        <img src="images/photoshop.svg" width="40" height="40" alt="PHOTOSHOP"/>
+        <img src="images/photoshop.svg" width="48" height="48" alt="PHOTOSHOP"/>
         <br/><strong>Photoshop</strong>
       </td>
       <td align="center" height="108" min-width="108">
         <a href="https://www.figma.com/">
-          <img src="images/figma.png" width="40" height="40" alt="FIGMA"/>
+          <img src="images/figma.png" width="48" height="48" alt="FIGMA"/>
         </a>
         <br/><strong>Figma</strong>
       </td>
       <td align="center" height="108" min-width="108">
         <a href="https://krita.org/en/">
-          <img src="images/krita.svg" width="40" height="40" alt="KRITA"/>
+          <img src="images/krita.svg" width="48" height="48" alt="KRITA"/>
         </a>
         <br/><strong>Krita</strong>
       </td>
@@ -244,11 +245,11 @@ In my free time I enjoy playing soccer or guitar
     <tr>
       <td>Version Control etc.</td>
       <td align="center" height="108" min-width="108">
-        <img src="images/git_icon.svg" width="40" height="40" alt="Git"/>
+        <img src="images/git_icon.svg" width="48" height="48" alt="Git"/>
         <br /><strong>Git</strong>
       </td>
       <td align="center" height="108" min-width="108">
-        <img src="images/linux.svg" width="40" height="40" alt="LINUX"/>
+        <img src="images/linux.svg" width="48" height="48" alt="LINUX"/>
         <br/><strong>Linux</strong>
       </td>
     </tr>
@@ -258,7 +259,7 @@ In my free time I enjoy playing soccer or guitar
 ---
 
 <details>
-  <summary style="font-size:24px">Projects 🛠️</summary>
+  <summary style="font-size:24px">Projects 🔥</summary>
     <div width="100%" margin="10px" align="center">
     <a href="https://github.com/agpavlik/LHL-project-MythiCare" align="left"><img align="left" width="50%" color="#66b2b2" src="https://github-readme-stats.vercel.app/api/pin/?username=agpavlik&repo=LHL-project-MythiCare&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
     <a href="https://github.com/agpavlik/LHL-project-MythiCare" align="right"><img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/pin/?username=agpavlik&repo=LHL-project-MythiCare&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
@@ -399,11 +400,27 @@ In my free time I enjoy playing soccer or guitar
  
 ---
 
+<details>
+  <summary style="font-size:24px">Most Used Languages</summary>
+  <br>
 
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agpavlik&layout=pie&langs_count=10&title_color=58A6FF&text_color=C3D1D9&icon_color=1F6FEB&bg_color=0D1117&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
+</details>
 
+---
 
+<details>
+  <summary style="font-size:24px"> GitHub Stats 📊 </summary>
+  <br>
+  
+  ![github_dark](https://github-readme-stats.vercel.app/api?username=agpavlik&show_icons=true&show_contribs=true@show_prs=true&hide_border=true&cache_seconds=86400&theme=github_dark)
 
+  [![GitHub Streak](https://streak-stats.demolab.com?user=agpavlik&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)
+
+</details>
+
+---
 
 <details>
   <summary style="font-size:24px">GitHub Trophies 🏆</summary>
@@ -413,29 +430,15 @@ In my free time I enjoy playing soccer or guitar
 
 ---
 
-<details>
-  <summary style="font-size:24px">Most Used Languages</summary>
 
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=agpavlik&show_icons=true&locale=en&layout=compact" alt="agpavlik" />
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agpavlik&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
-</details>
 
----
 
-<details>
-  <summary style="font-size:24px"> GitHub Stats 📊 </summary>
 
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=agpavlik&show_icons=true&locale=en" alt="agpavlik" />
 
- <a href="http://www.github.com/agpavlik"><img src="https://github-readme-stats.vercel.app/api?username=agpavlik&show_icons=true&hide=prs,issues,&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Alex's GitHub stats" /></a>
 
-<a href="http://www.github.com/agpavlik"><img src="https://github-readme-streak-stats.herokuapp.com/?user=agpavlik&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-</details>
 
----
-
-<details>
+<!-- <details>
   <summary style="font-size:24px"> GitHub Stats 📊 </summary>
   <br>
 	<div align="center">  
@@ -445,9 +448,8 @@ In my free time I enjoy playing soccer or guitar
 </div>
 
 <br>
-</details>
+</details> -->
 
----
 
 
 
