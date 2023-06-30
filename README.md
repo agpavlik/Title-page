@@ -1,5 +1,5 @@
 
-<span><div style="background-color:#0D1117; display:flex; text-align:center; vertical-align: middle; padding: 10px 30px;1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px;">
+<div style="background-color:#0D1117; display:flex; text-align:center; vertical-align: middle; padding: 10px 30px;1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px;" markdown="1">
 
 <div width="300px">
 <h1 style="align:center; color:#C3D1D9;">Alexander Pavlyk</h1>
@@ -15,7 +15,7 @@
 I am a success message
 </div>
 
-<div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #a94442; background-color: #f2dede; border-color: #ebccd1;">
+<div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #a94442; background-color: #f2dede; border-color: #ebccd1;" markdown="1">
 I am an error message
 </div>
 
