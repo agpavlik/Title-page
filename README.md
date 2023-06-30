@@ -421,13 +421,11 @@ speech_balloon Talk to me about Formula 1 racing_car, Memes, Anime, Movies movie
 ---
 
 <details>
-  <summary style="font-size:24px">GitHub Trophies 🏆</summary>
+  <summary style="font-size:28px">GitHub Trophies 🏆</summary>
 <img src="https://github-profile-trophy.vercel.app/?username=agpavlik&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
 
 </details>
 
 ---
-
-
 
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=agpavlik&label=VISITORS&labelColor=%230d1117&countColor=%231f6feb&style=plastic&labelStyle=none)](https://visitorbadge.io/status?path=agpavlik)
