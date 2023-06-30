@@ -142,18 +142,7 @@ speech_balloon Talk to me about Formula 1 racing_car, Memes, Anime, Movies movie
         </a>
         <br/><strong>React</strong>
       </td>
-      <td align="center" height="108" width="108">
-        <a href="https://nodejs.org/en/">
-          <img src="images/node.png" width="48" height="48" alt="NODEJS"/>
-        </a>
-        <br/><strong>NodeJS</strong>
-      </td>
-      <td align="center" height="108" width="108">
-        <a href="https://expressjs.com/">
-          <img src="images/express.png" width="48" height="48" alt="EXPRESS"/>
-        </a>
-        <br/><strong>Express</strong>
-      </td>
+      <td align="center" height="108" w5
       <td align="center" height="108" width="108">
         <a href="https://sass-lang.com/">
           <img src="images/sass.svg" width="48" height="48" alt="SASS"/>
@@ -405,9 +394,7 @@ speech_balloon Talk to me about Formula 1 racing_car, Memes, Anime, Movies movie
 </table>
 </section>
 </details>
- 
 ---
-
 <details>
   <summary style="font-size:24px">Most Used Languages 💡</summary>
   <br>
@@ -415,9 +402,7 @@ speech_balloon Talk to me about Formula 1 racing_car, Memes, Anime, Movies movie
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agpavlik&layout=pie&langs_count=20&title_color=58A6FF&text_color=C3D1D9&icon_color=1F6FEB&bg_color=0D1117&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 </details>
-
 ---
-
 <details>
   <summary style="font-size:24px"> GitHub Stats 📊 </summary>
   <br>
@@ -427,15 +412,12 @@ speech_balloon Talk to me about Formula 1 racing_car, Memes, Anime, Movies movie
   [![GitHub Streak](https://streak-stats.demolab.com?user=agpavlik&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)
 
 </details>
-
 ---
-
 <details>
   <summary style="font-size:24px">GitHub Trophies 🏆</summary>
 <img src="https://github-profile-trophy.vercel.app/?username=agpavlik&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
 
 </details>
-
 ---
 
 <br>
