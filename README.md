@@ -1,5 +1,4 @@
 
-![Fancy logo](./dark.png#gh-dark-mode-only)
 
 <div style="background-color:#0D1117; display:flex; text-align:center; vertical-align: middle; padding: 10px 30px;1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px;" markdown="1">
 
@@ -19,8 +18,13 @@
 
 </br>
 
+  <div width="100%" margin="10px" align="center">
+  <a href="https://github.com/agpavlik/LHL-project-MythiCare" align="left"><img align="left" width="100%" color="#66b2b2" src="https://github-readme-stats.vercel.app/api/pin/?username=agpavlik&repo=LHL-project-MythiCare&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en"/>
+  </a>
+  </div>
 
-  <img align="center" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnRsb2MxeWpjNDJuYzQzeGF0anNpd201dDR5d3F3eW15ZjhxeXMxYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/dioml5wsoBZYqJGqip/giphy.gif" width="15%"/>
+
+
 
 
 I specialize in building responsive and user-friendly web applications using modern web technologies. I love working on both the front-end and back-end, and I have experience working with a wide range of programming languages and frameworks.
@@ -369,7 +373,7 @@ speech_balloon Talk to me about Formula 1 racing_car, Memes, Anime, Movies movie
 <section align="center">
 <table bordercolor="#66b2b2">
   <tr>
-    <td width="50%" bordercolor="#66b2b2" valign="top">
+    <td width="50%" bordercolor="#66b2b2" background_color=1c1917 valign="top">
       <h3>Pollarizing</h3>
 
 ![](https://github.com/agpavlik/LHL-project-decision-maker/blob/master/public/images/demo11.gif)
@@ -398,7 +402,9 @@ speech_balloon Talk to me about Formula 1 racing_car, Memes, Anime, Movies movie
 </table>
 </section>
 </details>
+
 ---
+
 <details>
   <summary style="font-size:24px">Most Used Languages 💡</summary>
   <br>
@@ -406,7 +412,9 @@ speech_balloon Talk to me about Formula 1 racing_car, Memes, Anime, Movies movie
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agpavlik&layout=pie&langs_count=20&title_color=58A6FF&text_color=C3D1D9&icon_color=1F6FEB&bg_color=0D1117&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 </details>
+
 ---
+
 <details>
   <summary style="font-size:24px"> GitHub Stats 📊 </summary>
   <br>
@@ -416,12 +424,15 @@ speech_balloon Talk to me about Formula 1 racing_car, Memes, Anime, Movies movie
   [![GitHub Streak](https://streak-stats.demolab.com?user=agpavlik&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)
 
 </details>
+
 ---
+
 <details>
   <summary style="font-size:24px">GitHub Trophies 🏆</summary>
 <img src="https://github-profile-trophy.vercel.app/?username=agpavlik&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
 
 </details>
+
 ---
 
 <br>
