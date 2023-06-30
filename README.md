@@ -1,5 +1,5 @@
 
-<span><div style="background-color:#0D1117; display:flex; text-align:center; vertical-align: middle; padding: 10px 30px;">
+<span><div style="background-color:#0D1117; display:flex; text-align:center; vertical-align: middle; padding: 10px 30px;1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px;">
 
 <div width="300px">
 <h1 style="align:center; color:#C3D1D9;">Alexander Pavlyk</h1>
@@ -10,7 +10,24 @@
     <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2I1czBzNmRsdWs5dHRvaDVuY2FtaGU1MXBzOWU0c2kyemZmdWNlayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/iFaPIqooUgZ2MkVNJI/giphy-downsized-large.gif" width="20%"/>
   </div>
 </div>
-</span>
+
+<div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #3c763d; background-color: #dff0d8; border-color: #d6e9c6;">
+I am a success message
+</div>
+
+<div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #a94442; background-color: #f2dede; border-color: #ebccd1;">
+I am an error message
+</div>
+
+<div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #31708f; background-color: #d9edf7; border-color: #bce8f1;">
+<strong>&#9432; Info:<br/></strong> I am a info message
+</div>
+
+<div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #8a6d3b;; background-color: #fcf8e3; border-color: #faebcc;">
+<strong>&#9888; Warning:<br/></strong> I am a warning message
+</div>
+
+
 </br>
 
 
