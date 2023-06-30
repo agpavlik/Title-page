@@ -69,7 +69,7 @@ In my free time I enjoy playing soccer or guitar
 
 
 
-<h3>Resume <a href="./Alexander_Pavlik_Resume.pdf">📄</a> </h3>
+<h3>Resume <a href="./Alexander_Pavlyk_Resume.pdf">📄</a> </h3>
 
 
 
