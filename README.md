@@ -1,4 +1,6 @@
 
+![Fancy logo](./dark.png#gh-dark-mode-only)
+
 <div style="background-color:#0D1117; display:flex; text-align:center; vertical-align: middle; padding: 10px 30px;1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px;" markdown="1">
 
 <div width="300px">
@@ -11,22 +13,9 @@
   </div>
 </div>
 
-<div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #3c763d; background-color: #dff0d8; border-color: #d6e9c6;">
-I am a success message
+<div style="width: 100%;">
+  <img src="header.svg" style="width: 100%;" alt="Click to see the source">
 </div>
-
-<div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #a94442; background-color: #f2dede; border-color: #ebccd1;" markdown="1">
-I am an error message
-</div>
-
-<div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #31708f; background-color: #d9edf7; border-color: #bce8f1;">
-<strong>&#9432; Info:<br/></strong> I am a info message
-</div>
-
-<div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #8a6d3b;; background-color: #fcf8e3; border-color: #faebcc;">
-<strong>&#9888; Warning:<br/></strong> I am a warning message
-</div>
-
 
 </br>
 
