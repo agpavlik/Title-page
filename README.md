@@ -1,17 +1,16 @@
 
-<div style="background-color:#0D1117; display:flex; text-align:center; vertical-align: middle; padding: 10px 30px;">
+<span><div style="background-color:#0D1117; display:flex; text-align:center; vertical-align: middle; padding: 10px 30px;">
 
-<div width="50%">
+<div width="300px">
 <h1 style="align:center; color:#C3D1D9;">Alexander Pavlyk</h1>
 <h3 style="align:center; color:#58A6FF;">Full-Stack Developer</h3>
 
 </div>
-<div width="50%" align="right">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2I1czBzNmRsdWs5dHRvaDVuY2FtaGU1MXBzOWU0c2kyemZmdWNlayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/iFaPIqooUgZ2MkVNJI/giphy-downsized-large.gif" width="20%"/>
+  <div align="right">
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2I1czBzNmRsdWs5dHRvaDVuY2FtaGU1MXBzOWU0c2kyemZmdWNlayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/iFaPIqooUgZ2MkVNJI/giphy-downsized-large.gif" width="20%"/>
+  </div>
 </div>
-</div>
-
-
+</span>
 </br>
 
 
@@ -20,7 +19,6 @@
 
 I specialize in building responsive and user-friendly web applications using modern web technologies. I love working on both the front-end and back-end, and I have experience working with a wide range of programming languages and frameworks.
 I'm always excited to meet new people and collaborate on interesting projects. Feel free to connect with me on LinkedIn or Twitter. Let's build something awesome together!
-## ❓ What's next?
 
 - Using Redux and the Stripe API for frontend, as well as learning Prisma and Auth0 on the backend.
 - Experimenting with more complex UI states, using Redux and Framer Motion for cool animations!
