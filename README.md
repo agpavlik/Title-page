@@ -5,13 +5,14 @@
 <!-- <div id="header" align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2I1czBzNmRsdWs5dHRvaDVuY2FtaGU1MXBzOWU0c2kyemZmdWNlayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/iFaPIqooUgZ2MkVNJI/giphy-downsized-large.gif" width="100"/>
 </div> -->
+
 </br>
 <h1 align="center">Alexander Pavlyk</h1>
 <h2 align="center">Full-Stack Developer</h2>
 <h3 align="center">Specializing in Front-End Development</h3>
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzlkM2NmcGw5N2FxcnhobGhzaWkwZWdjbnJxcTR0N3ZodDk4bWxtbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/dioml5wsoBZYqJGqip/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnRsb2MxeWpjNDJuYzQzeGF0anNpd201dDR5d3F3eW15ZjhxeXMxYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/dioml5wsoBZYqJGqip/giphy.gif" width="15%"/>
 </div>
 
 I specialize in building responsive and user-friendly web applications using modern web technologies. I love working on both the front-end and back-end, and I have experience working with a wide range of programming languages and frameworks.
