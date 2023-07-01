@@ -5,72 +5,17 @@
 </div>
 
 </br>
+Full-stack developer with a commitment to continuous professional
+development. I am passionate about creating intuitive web applications and enjoy diving into new engrossing projects. My background in business analysis, banking, and property appraisal gives me a splendid combination of skills and
+knowledge, enabling me to take a holistic approach to challenges.
 
+You can find more information regarding my skills and expirience in resume.
+<a href="./Alexander_Pavlyk_Resume.pdf"><img width="30px" src="images/cv.png" onmouseover='this.src="images/discord.png"' onmouseout="this.src='images/cv-black.png'"></a>
 
-I specialize in building responsive and user-friendly web applications using modern web technologies. I love working on both the front-end and back-end, and I have experience working with a wide range of programming languages and frameworks.
-I'm always excited to meet new people and collaborate on interesting projects. Feel free to connect with me on LinkedIn or Twitter. Let's build something awesome together!
+Also, you can uncover set of technologies and tools I expirienced with and implemented projects listed below.
 
-- Using Redux and the Stripe API for frontend, as well as learning Prisma and Auth0 on the backend.
-- Experimenting with more complex UI states, using Redux and Framer Motion for cool animations!
-- Looking into Game dev into the future, maybe Godot or Unity, and Rust or C++?
+I am based in Ottawa, Canada. Feel free to connect with:
 
-  - Planning to look even more complex algorithms and data structures along with learning game dev. 
-
-I'm a software developer specializing in JavaScript technologies and CRM development. While I enjoy experimenting with various libraries and frameworks, I have the most experience with the ones listed below.
-
-In addition to software development, I have worked in a agile development settings as both a researcher and project manager. I am passionate about developing technologies which facilitate better cross-departmental comunication and user-experience.
-
-Technology is developing exponentially and it is ESSENTIAL that we build tools to help everyone - not just developers.
-
-<p align="left">
-
-
-- I’m currently learning 
-
-- All of my projects are available at ...
-
-- I regularly write articles on ...
-
-- Ask me anything 
-
-- Know about my experiences []()
-
-
-- Fun fact 
-</p>
-
-
-- 🌍 I'm based in Montreal, Canada
-
-- 🔭 I’m currently working on 
-
-- 🌱 I’m currently learning 
-- 📝 I'm currently taking this course []()
-
-- 📫 How to reach me 
-
-
-I am a Full Stack Web Developer from Canada
-Previously experience in:
-Mechanical & Project Engineering in Oil & Gas industry
-Automotive Service
-I love a challenge, and the excitement of building something new
-Fun Fact: I am a dual Canadian/American citizen
-In my free time I enjoy playing soccer or guitar
-
-A Data engineer passionate about Data Science bar_chart. I like automating, building scalable pipelines, improving and optimizing systems. I am a Strong Advocate for scroll open source, cloud Cloud computing, rocket DevOps, new Innovation and Automation robot
-
-seedling I’m currently pursuing Masters in Data Analytics Engineering at Northeastern University, Boston
-zap Fun fact: I strongly believe in the Chaos theory: Even in unpredictable environments with seemingly random oddities and irregularities lies a predictable & sensible pattern not seen initially.
-💡 I'm interested in all things data: Big Data, Cloud, Machine Learning and Data Science
-speech_balloon Talk to me about Formula 1 racing_car, Memes, Anime, Movies movie_camera, Genshin Impact video_game, Amateur Photography camera_flash
-
-<h3>Resume <a href="./Alexander_Pavlyk_Resume.pdf"><img width="40px" src="images/cv.png" onmouseover='this.src="images/discord.png"' onmouseout="this.src='images/cv-black.png'"></a> </h3>
-
-
-
-
-<h3 align="center">Let's Connect:</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/alex-pavlyk/" target="_blank" rel="noreferrer">
     <img src="images/linkedin-one.png" width="38" height="38"/>
@@ -330,6 +275,13 @@ speech_balloon Talk to me about Formula 1 racing_car, Memes, Anime, Movies movie
   </tr>
 </table>
 </section>
+</details>
+
+---
+
+<details>
+  <summary style="font-size:24px"> I am currently learning 📝 </summary>
+
 </details>
 
 ---
