@@ -1,5 +1,4 @@
 
-
 <div align="center" width="100%">
 <img src="header.svg" style="width: 50%;" alt="Click to see the source"><img src="images/earth-black.gif" width="25%"/>
 </div>
@@ -9,12 +8,12 @@ Full-stack developer with a commitment to continuous professional
 development. I am passionate about creating intuitive web applications and enjoy diving into new engrossing projects. My background in business analysis, banking, and property appraisal gives me a splendid combination of skills and
 knowledge, enabling me to take a holistic approach to challenges.
 
-You can find more information regarding my skills and expirience in resume.
-<a href="./Alexander_Pavlyk_Resume.pdf"><img width="30px" src="images/cv.png" onmouseover='this.src="images/discord.png"' onmouseout="this.src='images/cv-black.png'"></a>
+You can find more information regarding my skills and experience in my resume. 
+<a href="./Alexander_Pavlyk_Resume.pdf"><img width="38px" src="images/cv.png" onmouseover='this.src="images/discord.png"' onmouseout="this.src='images/cv-black.png'"></a>
 
-Also, you can uncover set of technologies and tools I expirienced with and implemented projects listed below.
+Also, you can uncover the set of technologies and tools I experienced with and implemented projects listed below.
 
-I am based in Ottawa, Canada. Feel free to connect with:
+I am based in Ottawa, Canada. Feel free to connect with me:
 
 <p align="center">
   <a href="https://www.linkedin.com/in/alex-pavlyk/" target="_blank" rel="noreferrer">
@@ -287,7 +286,7 @@ I am based in Ottawa, Canada. Feel free to connect with:
 ---
 
 <details>
-  <summary style="font-size:24px">Most Used Languages ✅</summary>
+  <summary style="font-size:24px">Most Used Languages 🎯</summary>
   <br>
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agpavlik&layout=pie&langs_count=20&title_color=58A6FF&text_color=C3D1D9&icon_color=1F6FEB&bg_color=0D1117&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
