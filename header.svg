@@ -13,18 +13,11 @@
       </style>
 
       <div class="container">
-<div style="background-color:#0D1117; display:flex; text-align:center; vertical-align: middle; padding: 10px 30px;1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px;" markdown="1">
-
-<div width="300px">
+<span>
 <h1 style="align:center; color:#C3D1D9;">Alexander Pavlyk</h1>
 <h3 style="align:center; color:#58A6FF;">Full-Stack Developer</h3>
 
-</div>
-  <div align="right">
-    <image href="images/earth.gif" width="20%"/>
-  </div>
-</div>
-      </div>
+</span>
     </div>
   </foreignObject>
 </svg>

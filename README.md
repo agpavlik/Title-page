@@ -20,8 +20,8 @@
 
 
   <div width="100%" margin="10px" align="center">
-  <a href="https://github.com/agpavlik/LHL-project-MythiCare" align="left"><img align="left" width="50%" color="#66b2b2" src="https://github-readme-stats.vercel.app/api/pin/?username=agpavlik&repo=LHL-project-MythiCare&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
-  <a href="https://github.com/agpavlik/LHL-project-MythiCare" align="right"><img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/pin/?username=agpavlik&repo=LHL-project-MythiCare&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
+  <a href="https://github.com/agpavlik/LHL-project-MythiCare" align="left"><img align="left" width="20%" color="#66b2b2" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2I1czBzNmRsdWs5dHRvaDVuY2FtaGU1MXBzOWU0c2kyemZmdWNlayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/iFaPIqooUgZ2MkVNJI/giphy-downsized-large.gif$title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en/></a>
+
   <a href="https://github.com/agpavlik/LHL-project-MythiCare" align="left"><img align="left" width="50%" bordercolor="#66b2b2" src="https://github-readme-stats.vercel.app/api/pin/?username=agpavlik&repo=LHL-project-MythiCare&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
   <a href="https://github.com/agpavlik/LHL-project-MythiCare" align="right"><img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/pin/?username=agpavlik&repo=natours&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
   </div>
@@ -84,9 +84,7 @@ zap Fun fact: I strongly believe in the Chaos theory: Even in unpredictable envi
 💡 I'm interested in all things data: Big Data, Cloud, Machine Learning and Data Science
 speech_balloon Talk to me about Formula 1 racing_car, Memes, Anime, Movies movie_camera, Genshin Impact video_game, Amateur Photography camera_flash
 
-<h3>Resume <a href="./Alexander_Pavlyk_Resume.pdf"><img width="50px" src="images/cv-black.png" onmouseover='this.src="images/discord.png"' onmouseout="this.src='images/cv-black.png'"></a> </h3>
-
-
+<h3>Resume <a href="./Alexander_Pavlyk_Resume.pdf"><img width="40px" src="images/cv.png" onmouseover='this.src="images/discord.png"' onmouseout="this.src='images/cv-black.png'"></a> </h3>
 
 
 
@@ -94,13 +92,13 @@ speech_balloon Talk to me about Formula 1 racing_car, Memes, Anime, Movies movie
 <h3 align="center">Let's Connect:</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/alex-pavlyk/" target="_blank" rel="noreferrer">
-    <img src="images/linkedin-one.png" width="40" height="40" />
+    <img src="images/linkedin-one.png" width="38" height="38"/>
   </a>&nbsp&nbsp&nbsp
   <a href="" target="_blank" rel="noreferrer">
-    <img src="images/discord.png" width="40" height="40"/>
+    <img src="images/discord.png" width="38" height="38"/>
   </a>&nbsp&nbsp&nbsp
-  <a href="agpavlik@gmail.com" target="_blank" rel="noreferrer">
-    <img src="images/gmail-one.png" width="40" height="40" />
+  <a href="mailto:agpavlik@gmail.com" target="_blank" rel="noreferrer">
+    <img src="images/gmail-one.png" width="38" height="38"/>
   </a>
 </p>
 
@@ -265,105 +263,6 @@ speech_balloon Talk to me about Formula 1 racing_car, Memes, Anime, Movies movie
 <details>
   <summary style="font-size:24px">Projects 🔥</summary>
 
-
-
-<table bordercolor="#66b2b2">
-
-<!-- 1st row -->
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">My</h3>
-      <br />
-      <a target="_blank" href="">
-        <img src="docs/png" width="100%">
-      </a>
-      <br />
-      <p>
-        <a href="" target="_blank">Link</a><br><br>
-        <strong>Javascript | Vite | TailwindCSS | HTML</strong> <br><br> 
-        Check out my personal portfolio site!
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">ZenZone 3D</h3>
-      <br />
-      <a target="_blank" href="">
-        <img src="docs/.gif">
-      </a>
-      <br />
-      <p>
-        <a href="https://" target="_blank">Repo</a><br><br>
-        <strong>React | Typescript | CSS | HTML | NodeJS | ExpressJS | Spline | Cohere.ai API | Twilio 
-      </p>
-    </td>
-  </tr>
-  
-<!-- 2nd row -->
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">My</h3>
-      <br />
-      <a target="_blank" href="https://github.com/t-iffany/roothacks-project">
-        <img src="docs/binit.gif" width="100%">
-      </a>
-      <br />
-      <p>
-        <a href="https://giththacks-project" target="_blank">Repo</a><br><br>
-        <strong>React | Javascript | CSS | HTML | Python | Flask</strong> <br><br> 
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">PawHub</h3>
-      <br />
-      <a target="_blank" href="https://githubhub">
-        <img src="docs/profile.gif" width="100%">
-      </a>
-      <br />
-      <p>
-        <a href="https://github.com/agpavlik/LHL-project-pollarizing" target="_blank">Repo</a><br><br>
-        <strong>Javascript | React | Ruby on Rails | PostgreSQL | Bootstrap | Material UI | Axios | Google Maps API | YouTube API</strong> <br><br> 
-        •  A full stack application for pet owners to connect with other pet owners, find local pet resources, and learn about different breeds and pet care. <br>
-        •  Features: discussion board, explore page, map page, breed information page, video page
-      </p>
-    </td>
-  </tr>
-  
-  
-<!-- 3rd row -->
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">On The Run</h3>
-      <br />
-      <a target="_blank" href="https://devpost.rse-chase">
-        <img src="docs/ontherun.gif" width="100%">
-      </a>
-      <br />
-      <p>
-        <a href="https://devpost.tiverse-chase" target="_blank">Devpost</a><br><br>
-        <strong>Python | Pygame</strong> <br><br> 
-        •   A side-scrolling platform game with a multiverse heist theme. Players collect items while being chased, and navigate obstacles to reach the next levels.<br>
-        •  Submission for Pygames Hackathon hosted by Microsoft
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">BeautiSense</h3>
-      <br />
-      <a target="_blank" href="https://dare/beautisense">
-        <img src="docs/beautisense.png" width="100%">
-      </a>
-      <br />
-      <p>
-        <a href="https://devputisense" target="_blank">Devpost</a><br><br>
-        <strong>Python | OpenCV | Javascript</strong> <br><br> 
-        •  Idea Track Submission for ELC Accessible Beauty Hackathon<br>
-        •  An application that uses AI, facial recognition, and computer vision to provide personalized makeup guidance and accessibility features
-      </p>
-    </td>
-  </tr>
-  
-  
-</table><br>
-
 <section align="center">
 <table bordercolor="#66b2b2">
 <!-- 1 project -->
@@ -383,7 +282,7 @@ speech_balloon Talk to me about Formula 1 racing_car, Memes, Anime, Movies movie
 <!-- 2 project -->
   <td width="50%" bordercolor="#66b2b2" valign="top">
     <h3 align="center">MythiCare</h3>
-<img src="https://github.com/agpavlik/LHL-project-MythiCrae/blob/main/docs/Screenshot_13.png" width="100%">
+<img src="https://github.com/agpavlik/LHL-project-MythiCare/blob/main/docs/Screenshot_13.png" width="100%">
 
   <a href="https://github.com/agpavlik/LHL-project-MythiCare" target="_blank">
       <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github">
@@ -409,7 +308,7 @@ speech_balloon Talk to me about Formula 1 racing_car, Memes, Anime, Movies movie
 
 <!-- 4 project -->
   <td width="50%" bordercolor="#66b2b2" valign="top">
-    <h3>MythiCare</h3>
+    <h3>PhotoLabs</h3>
 
 ![](https://github.com/agpavlik/LHL-project-photolabs/blob/main/frontend/public/docs/demo4.gif)
 
@@ -478,7 +377,7 @@ speech_balloon Talk to me about Formula 1 racing_car, Memes, Anime, Movies movie
 
 <details>
   <summary style="font-size:24px">GitHub Trophies 🏆</summary>
-<img src="https://github-profile-trophy.vercel.app/?username=agpavlik&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
+<img src="https://github-profile-trophy.vercel.app/?username=agpavlik&theme=darkhub&no-frame=false&no-bg=true&margin-w=4" />
 
 </details>
 
