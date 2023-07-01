@@ -9,7 +9,7 @@
           background-color:#0D1117;
           color: white;
           font-family: Hubot Sans;
-          padding-top: 60px;
+          padding-top: 50px;
           padding-left: 40px;
         }
       </style>
