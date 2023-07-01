@@ -1,30 +1,22 @@
 
-
-<div style="background-color:#0D1117; display:flex; text-align:center; vertical-align: middle; padding: 10px 30px;1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px;" markdown="1">
-
-<div width="300px">
-<h1 style="align:center; color:#C3D1D9;">Alexander Pavlyk</h1>
-<h3 style="align:center; color:#58A6FF;">Full-Stack Developer</h3>
-
-</div>
-  <div align="right">
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2I1czBzNmRsdWs5dHRvaDVuY2FtaGU1MXBzOWU0c2kyemZmdWNlayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/iFaPIqooUgZ2MkVNJI/giphy-downsized-large.gif" width="20%"/>
-  </div>
-</div>
-
 <div style="width: 100%;">
   <img src="header.svg" style="width: 100%;" alt="Click to see the source">
 </div>
 
+
+<div style="width: 100%;">
+  <img src="header.svg" style="width: 50%;" alt="Click to see the source">
+</div>
+
 </br>
 
+Alexander Pavlyk![alt-text-2](images/earth-black.gif)<img src="images/earth-black.gif" width="25%"/>
 
-  <div width="100%" margin="10px" align="center">
-  <a href="https://github.com/agpavlik/LHL-project-MythiCare" align="left"><img align="left" width="20%" color="#66b2b2" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2I1czBzNmRsdWs5dHRvaDVuY2FtaGU1MXBzOWU0c2kyemZmdWNlayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/iFaPIqooUgZ2MkVNJI/giphy-downsized-large.gif$title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en/></a>
 
-  <a href="https://github.com/agpavlik/LHL-project-MythiCare" align="left"><img align="left" width="50%" bordercolor="#66b2b2" src="https://github-readme-stats.vercel.app/api/pin/?username=agpavlik&repo=LHL-project-MythiCare&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
-  <a href="https://github.com/agpavlik/LHL-project-MythiCare" align="right"><img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/pin/?username=agpavlik&repo=natours&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
-  </div>
+<img src="header.svg" style="width: 75%;" alt="Click to see the source"><img src="images/earth-black.gif" width="25%"/>
+
+</br>
+
 
 I specialize in building responsive and user-friendly web applications using modern web technologies. I love working on both the front-end and back-end, and I have experience working with a wide range of programming languages and frameworks.
 I'm always excited to meet new people and collaborate on interesting projects. Feel free to connect with me on LinkedIn or Twitter. Let's build something awesome together!

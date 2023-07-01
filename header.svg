@@ -5,19 +5,25 @@
         .container {
           display: flex;
           width: 100%;
-          height: 100px;
-          background-color: #0D1117;
+          height: 300px;
+          background-color:#0D1117;
           color: white;
-          border-radius: 5px;
+          font-family: Hubot Sans;
+          padding-top: 50px;
+          padding-left: 30px;
         }
       </style>
 
       <div class="container">
-<span>
-<h1 style="align:center; color:#C3D1D9;">Alexander Pavlyk</h1>
-<h3 style="align:center; color:#58A6FF;">Full-Stack Developer</h3>
+<div style="background-color:#0D1117; display:flextext-align:center; vertical-align: middle; padding: 10px 30px;1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px;" markdown="1">
 
-</span>
+<div width="100%">
+<h1 style="align:right; color:#C3D1D9;">Alexander Pavlyk</h1>
+<h3 style="align:right; color:#58A6FF;">Full-Stack Developer</h3>
+
+</div>
+</div>
+      </div>
     </div>
   </foreignObject>
 </svg>
