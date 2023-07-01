@@ -8,8 +8,8 @@
           height: 200px;
           background-color:#0D1117;
           color: white;
-          font-size: 26px;
-          padding-top: 50px;
+          font-size: 24px;
+          padding-top: 40px;
           padding-left: 50px;
         }
       </style>
