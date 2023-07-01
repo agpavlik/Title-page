@@ -265,107 +265,9 @@ speech_balloon Talk to me about Formula 1 racing_car, Memes, Anime, Movies movie
 <details>
   <summary style="font-size:24px">Projects 🔥</summary>
 
-
-
-<table bordercolor="#66b2b2">
-
-<!-- 1st row -->
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">My</h3>
-      <br />
-      <a target="_blank" href="">
-        <img src="docs/png" width="100%">
-      </a>
-      <br />
-      <p>
-        <a href="" target="_blank">Link</a><br><br>
-        <strong>Javascript | Vite | TailwindCSS | HTML</strong> <br><br> 
-        Check out my personal portfolio site!
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">ZenZone 3D</h3>
-      <br />
-      <a target="_blank" href="">
-        <img src="docs/.gif">
-      </a>
-      <br />
-      <p>
-        <a href="https://" target="_blank">Repo</a><br><br>
-        <strong>React | Typescript | CSS | HTML | NodeJS | ExpressJS | Spline | Cohere.ai API | Twilio 
-      </p>
-    </td>
-  </tr>
-  
-<!-- 2nd row -->
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">My</h3>
-      <br />
-      <a target="_blank" href="https://github.com/t-iffany/roothacks-project">
-        <img src="docs/binit.gif" width="100%">
-      </a>
-      <br />
-      <p>
-        <a href="https://giththacks-project" target="_blank">Repo</a><br><br>
-        <strong>React | Javascript | CSS | HTML | Python | Flask</strong> <br><br> 
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">PawHub</h3>
-      <br />
-      <a target="_blank" href="https://githubhub">
-        <img src="docs/profile.gif" width="100%">
-      </a>
-      <br />
-      <p>
-        <a href="https://github.com/agpavlik/LHL-project-pollarizing" target="_blank">Repo</a><br><br>
-        <strong>Javascript | React | Ruby on Rails | PostgreSQL | Bootstrap | Material UI | Axios | Google Maps API | YouTube API</strong> <br><br> 
-        •  A full stack application for pet owners to connect with other pet owners, find local pet resources, and learn about different breeds and pet care. <br>
-        •  Features: discussion board, explore page, map page, breed information page, video page
-      </p>
-    </td>
-  </tr>
-  
-  
-<!-- 3rd row -->
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">On The Run</h3>
-      <br />
-      <a target="_blank" href="https://devpost.rse-chase">
-        <img src="docs/ontherun.gif" width="100%">
-      </a>
-      <br />
-      <p>
-        <a href="https://devpost.tiverse-chase" target="_blank">Devpost</a><br><br>
-        <strong>Python | Pygame</strong> <br><br> 
-        •   A side-scrolling platform game with a multiverse heist theme. Players collect items while being chased, and navigate obstacles to reach the next levels.<br>
-        •  Submission for Pygames Hackathon hosted by Microsoft
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">BeautiSense</h3>
-      <br />
-      <a target="_blank" href="https://dare/beautisense">
-        <img src="docs/beautisense.png" width="100%">
-      </a>
-      <br />
-      <p>
-        <a href="https://devputisense" target="_blank">Devpost</a><br><br>
-        <strong>Python | OpenCV | Javascript</strong> <br><br> 
-        •  Idea Track Submission for ELC Accessible Beauty Hackathon<br>
-        •  An application that uses AI, facial recognition, and computer vision to provide personalized makeup guidance and accessibility features
-      </p>
-    </td>
-  </tr>
-  
-  
-</table><br>
-
 <section align="center">
 <table bordercolor="#66b2b2">
+<!-- 1 project -->
   <tr>
     <td width="50%" valign="top">
       <h3 align="center">Pollarizing</h3>
@@ -373,25 +275,57 @@ speech_balloon Talk to me about Formula 1 racing_car, Memes, Anime, Movies movie
 ![](https://github.com/agpavlik/LHL-project-decision-maker/blob/master/public/images/demo11.gif)
 
   <a href="https://github.com/agpavlik/LHL-project-decision-maker" target="_blank">
-    <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github">
-  </a> 
-  <p><strong>JavaScript, HTML, SASS, Bootstrap, Express, PostgreSQL, Chart.js</strong></p>
-  <p>Application allows users to make a decision by creating polls and voting.</p>
+      <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github">
+    </a> 
+    <p><strong>JavaScript, HTML, SASS, Bootstrap, Express, PostgreSQL, Chart.js</strong></p>
+    <p>Application allows users to make a decision by creating polls and voting.</p>
   </td>
-    <td width="50%" bordercolor="#66b2b2" valign="top">
-      <h3>MythiCare</h3>
 
-![](https://github.com/JackDuluoz/scheduler/blob/master/docs/add.gif)
+<!-- 2 project -->
+  <td width="50%" bordercolor="#66b2b2" valign="top">
+    <h3 align="center">MythiCare</h3>
 
-  <p>
+![](https://github.com/agpavlik/LHL-project-MythiCrae/blob/main/docs/Screenshot_13.png)
+
   <a href="https://github.com/agpavlik/LHL-project-MythiCare" target="_blank">
-    <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github">
-    
-  </a>  
-      </p>
-        <p><strong>React, SCSS, Node/Express, PostgreSQL, Storybook, Jest, Cypress</strong> – Scheduler is a full-stack, single-page appointment scheduling tool helping students connect with mentors.</p>
+      <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github">
+    </a>  
+      <p><strong>React, Bootstrap, Node, Express, PostgreSQL</strong></p>
+      <p>A pet sitting app where you can find or become a sitter for the pets.</p>
     </td>
   </tr>
+
+<!-- 3 project -->
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">Jungle</h3>
+
+![](https://github.com/agpavlik/LHL-project-Jungle/blob/master/public/docs/demo9.gif)
+
+  <a href="https://github.com/agpavlik/LHL-project-Jungle" target="_blank">
+      <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github">
+    </a> 
+    <p><strong>Ruby on Rails, PostgreSQL, Strap</strong></p>
+    <p>Plants and flowers online shop.</p>
+  </td>
+
+<!-- 4 project -->
+  <td width="50%" bordercolor="#66b2b2" valign="top">
+    <h3>MythiCare</h3>
+
+![](https://github.com/agpavlik/LHL-project-photolabs/blob/main/frontend/public/docs/demo4.gif)
+
+  <a href="https://github.com/agpavlik/LHL-project-photolabs" target="_blank">
+      <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github">
+    </a>  
+      <p><strong>React, Bootstrap, Node, Express, MongoDB</strong></p>
+      <p>A React-based SPA that allows users to view photos in different contexts.</p>
+    </td>
+  </tr>
+
+
+
+
 </table>
 </section>
 </details>
@@ -399,7 +333,7 @@ speech_balloon Talk to me about Formula 1 racing_car, Memes, Anime, Movies movie
 ---
 
 <details>
-  <summary style="font-size:24px">Most Used Languages 💡</summary>
+  <summary style="font-size:24px">Most Used Languages ✅</summary>
   <br>
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agpavlik&layout=pie&langs_count=20&title_color=58A6FF&text_color=C3D1D9&icon_color=1F6FEB&bg_color=0D1117&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
@@ -409,7 +343,7 @@ speech_balloon Talk to me about Formula 1 racing_car, Memes, Anime, Movies movie
 ---
 
 <details>
-  <summary><h3>GitHub Stats 📊 </h3></summary>
+  <summary style="font-size:24px"> GitHub Stats 📊 </summary>
   <br>
   
   ![github_dark](https://github-readme-stats.vercel.app/api?username=agpavlik&show_icons=true&show_contribs=true@show_prs=true&hide_border=true&cache_seconds=86400&theme=github_dark)
@@ -421,7 +355,7 @@ speech_balloon Talk to me about Formula 1 racing_car, Memes, Anime, Movies movie
 ---
 
 <details>
-  <summary><h4>GitHub Trophies 🏆</h4></summary>
+  <summary style="font-size:24px">GitHub Trophies 🏆</summary>
 <img src="https://github-profile-trophy.vercel.app/?username=agpavlik&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
 
 </details>
