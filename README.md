@@ -1,7 +1,8 @@
 
 
-
-<img src="header.svg" style="width: 47%;" alt="Click to see the source"><img src="images/earth-black.gif" width="25%"/>
+<div align="center" width="100%">
+<img src="header.svg" style="width: 47%;" alt="Click to see the source"><img src="images/earth-black.gif" width="20%"/>
+</div>
 
 </br>
 
