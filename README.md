@@ -1,19 +1,7 @@
 
-<div style="width: 100%;">
-  <img src="header.svg" style="width: 100%;" alt="Click to see the source">
-</div>
 
 
-<div style="width: 100%;">
-  <img src="header.svg" style="width: 50%;" alt="Click to see the source">
-</div>
-
-</br>
-
-Alexander Pavlyk![alt-text-2](images/earth-black.gif)<img src="images/earth-black.gif" width="25%"/>
-
-
-<img src="header.svg" style="width: 75%;" alt="Click to see the source"><img src="images/earth-black.gif" width="25%"/>
+<img src="header.svg" style="width: 50%;" alt="Click to see the source"><img src="images/earth-black.gif" width="25%"/>
 
 </br>
 
