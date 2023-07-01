@@ -281,6 +281,15 @@ I am based in Ottawa, Canada. Feel free to connect with me:
 <details>
   <summary style="font-size:24px"> I am currently learning 📝 </summary>
 
+ 
+  <p><strong> - The Ultimate React Course 2023: React, Redux & More</strong>&nbsp&nbsp&nbsp<a href="https://www.udemy.com/course/the-ultimate-react-course/learn/lecture/37351178?start=15#learning-tools" target="_blank">
+    <img src="images/udemy.svg" width="50px" height="20px">
+  </a></p>
+
+  <p><strong> - Next JS & Open AI / GPT</strong>&nbsp&nbsp&nbsp<a href="https://www.udemy.com/course/next-js-ai/learn/lecture/36383544?start=15#overview" target="_blank">
+    <img src="images/udemy.svg" width="50px" height="20px">
+  </a></p>
+
 </details>
 
 ---
