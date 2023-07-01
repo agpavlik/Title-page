@@ -265,6 +265,105 @@ speech_balloon Talk to me about Formula 1 racing_car, Memes, Anime, Movies movie
 <details>
   <summary style="font-size:24px">Projects 🔥</summary>
 
+
+
+<table bordercolor="#66b2b2">
+
+<!-- 1st row -->
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">My</h3>
+      <br />
+      <a target="_blank" href="">
+        <img src="docs/png" width="100%">
+      </a>
+      <br />
+      <p>
+        <a href="" target="_blank">Link</a><br><br>
+        <strong>Javascript | Vite | TailwindCSS | HTML</strong> <br><br> 
+        Check out my personal portfolio site!
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">ZenZone 3D</h3>
+      <br />
+      <a target="_blank" href="">
+        <img src="docs/.gif">
+      </a>
+      <br />
+      <p>
+        <a href="https://" target="_blank">Repo</a><br><br>
+        <strong>React | Typescript | CSS | HTML | NodeJS | ExpressJS | Spline | Cohere.ai API | Twilio 
+      </p>
+    </td>
+  </tr>
+  
+<!-- 2nd row -->
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">My</h3>
+      <br />
+      <a target="_blank" href="https://github.com/t-iffany/roothacks-project">
+        <img src="docs/binit.gif" width="100%">
+      </a>
+      <br />
+      <p>
+        <a href="https://giththacks-project" target="_blank">Repo</a><br><br>
+        <strong>React | Javascript | CSS | HTML | Python | Flask</strong> <br><br> 
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">PawHub</h3>
+      <br />
+      <a target="_blank" href="https://githubhub">
+        <img src="docs/profile.gif" width="100%">
+      </a>
+      <br />
+      <p>
+        <a href="https://github.com/agpavlik/LHL-project-pollarizing" target="_blank">Repo</a><br><br>
+        <strong>Javascript | React | Ruby on Rails | PostgreSQL | Bootstrap | Material UI | Axios | Google Maps API | YouTube API</strong> <br><br> 
+        •  A full stack application for pet owners to connect with other pet owners, find local pet resources, and learn about different breeds and pet care. <br>
+        •  Features: discussion board, explore page, map page, breed information page, video page
+      </p>
+    </td>
+  </tr>
+  
+  
+<!-- 3rd row -->
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">On The Run</h3>
+      <br />
+      <a target="_blank" href="https://devpost.rse-chase">
+        <img src="docs/ontherun.gif" width="100%">
+      </a>
+      <br />
+      <p>
+        <a href="https://devpost.tiverse-chase" target="_blank">Devpost</a><br><br>
+        <strong>Python | Pygame</strong> <br><br> 
+        •   A side-scrolling platform game with a multiverse heist theme. Players collect items while being chased, and navigate obstacles to reach the next levels.<br>
+        •  Submission for Pygames Hackathon hosted by Microsoft
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">BeautiSense</h3>
+      <br />
+      <a target="_blank" href="https://dare/beautisense">
+        <img src="docs/beautisense.png" width="100%">
+      </a>
+      <br />
+      <p>
+        <a href="https://devputisense" target="_blank">Devpost</a><br><br>
+        <strong>Python | OpenCV | Javascript</strong> <br><br> 
+        •  Idea Track Submission for ELC Accessible Beauty Hackathon<br>
+        •  An application that uses AI, facial recognition, and computer vision to provide personalized makeup guidance and accessibility features
+      </p>
+    </td>
+  </tr>
+  
+  
+</table><br>
+
 <section align="center">
 <table bordercolor="#66b2b2">
 <!-- 1 project -->
@@ -284,8 +383,7 @@ speech_balloon Talk to me about Formula 1 racing_car, Memes, Anime, Movies movie
 <!-- 2 project -->
   <td width="50%" bordercolor="#66b2b2" valign="top">
     <h3 align="center">MythiCare</h3>
-
-![](https://github.com/agpavlik/LHL-project-MythiCrae/blob/main/docs/Screenshot_13.png)
+<img src="https://github.com/agpavlik/LHL-project-MythiCrae/blob/main/docs/Screenshot_13.png" width="100%">
 
   <a href="https://github.com/agpavlik/LHL-project-MythiCare" target="_blank">
       <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github">
@@ -306,7 +404,7 @@ speech_balloon Talk to me about Formula 1 racing_car, Memes, Anime, Movies movie
       <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github">
     </a> 
     <p><strong>Ruby on Rails, PostgreSQL, Strap</strong></p>
-    <p>Plants and flowers online shop.</p>
+    <p>A mini e-commerce application. Plants and flowers online shop.</p>
   </td>
 
 <!-- 4 project -->
@@ -323,9 +421,33 @@ speech_balloon Talk to me about Formula 1 racing_car, Memes, Anime, Movies movie
     </td>
   </tr>
 
+<!-- 5 project -->
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">Tweeter</h3>
 
+![](https://github.com/agpavlik/LHL-project-tweeter/blob/master/public/docs/demo2.gif)
 
+  <a href="https://github.com/agpavlik/LHL-project-tweeter" target="_blank">
+      <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github">
+    </a> 
+    <p><strong>HTML, CSS, JS, jQuery, Express, Node</strong></p>
+    <p>Tweeter is a simple, single-page Twitter clone. </p>
+  </td>
 
+<!-- 6 project -->
+  <td width="50%" bordercolor="#66b2b2" valign="top">
+    <h3>TinyApp</h3>
+
+<img src="https://github.com/agpavlik/LHL-project-tinyapp/blob/master/docs/urls-page.png" width="100%">
+
+  <a href="https://github.com/agpavlik/LHL-project-tinyapp" target="_blank">
+      <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github">
+    </a>  
+      <p><strong>Node, Express</strong></p>
+      <p>TinyApp is a full stack web application that allows users to shorten long URLs</p>
+    </td>
+  </tr>
 </table>
 </section>
 </details>
