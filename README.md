@@ -1,4 +1,3 @@
-
 <div align="center" width="100%">
 <img src="header.svg" style="width:75%" alt="Click to see the source"><img src="images/earth-black.gif" width="25%"/>
 </div>
@@ -8,7 +7,7 @@ Full-stack developer with a commitment to continuous professional
 development. I am passionate about creating intuitive web applications and enjoy diving into new engrossing projects. My background in business analysis, banking, and property appraisal gives me a splendid combination of skills and
 knowledge, enabling me to take a holistic approach to challenges.
 
-You can find more information regarding my skills and experience in my resume. 
+You can find more information regarding my skills and experience in my resume.
 <a href="./Alexander_Pavlyk_Resume.pdf"><img width="38px" src="images/cv.png" onmouseover='this.src="images/discord.png"' onmouseout="this.src='images/cv-black.png'"></a>
 
 Also, you can uncover the set of technologies and tools I experienced with and implemented projects listed below.
@@ -28,6 +27,7 @@ I am based in Ottawa, Canada. Feel free to connect with me:
 </p>
 
 ---
+
 <details>
   <summary style="font-size:24px">Technologies & Tools 🛠️</summary>
   <br>
@@ -72,12 +72,17 @@ I am based in Ottawa, Canada. Feel free to connect with me:
         </a>
         <br/><strong>React</strong>
       </td>
-      <td align="center" height="108" w5
       <td align="center" height="108" width="108">
-        <a href="https://sass-lang.com/">
-          <img src="images/sass.svg" width="48" height="48" alt="SASS"/>
+        <a href="https://nodejs.org/en">
+          <img src="images/node.png" width="48" height="48" alt="SASS"/>
         </a>
-        <br/><strong>SASS</strong>
+        <br/><strong>Node.js</strong>
+      </td>
+      <td align="center" height="108" width="108">
+        <a href="https://expressjs.com/">
+          <img src="images/express.png" width="48" height="48" alt="SASS"/>
+        </a>
+        <br/><strong>Express</strong>
       </td>
       <td align="center" height="108" width="108">
         <a href="https://getbootstrap.com/">
@@ -96,7 +101,13 @@ I am based in Ottawa, Canada. Feel free to connect with me:
           <img src="images/rails.png" width="48" height="48" alt="RAILS"/>
         </a>
         <br/><strong>Rails</strong>
-      </td> 
+      </td>
+            <td align="center" height="108" width="108">
+        <a href="https://sass-lang.com/">
+          <img src="images/sass.svg" width="48" height="48" alt="SASS"/>
+        </a>
+        <br/><strong>SASS</strong>
+      </td>
     </tr>
     <tr>
       <td>Databases</td>
@@ -298,7 +309,7 @@ I am based in Ottawa, Canada. Feel free to connect with me:
   <summary style="font-size:24px">Most Used Languages 🎯</summary>
   <br>
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agpavlik&layout=pie&langs_count=20&title_color=58A6FF&text_color=C3D1D9&icon_color=1F6FEB&bg_color=0D1117&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agpavlik&layout=pie&langs_count=20&title_color=58A6FF&text_color=C3D1D9&icon_color=1F6FEB&bg_color=0D1117&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 </details>
 
@@ -310,7 +321,7 @@ I am based in Ottawa, Canada. Feel free to connect with me:
   
   ![github_dark](https://github-readme-stats.vercel.app/api?username=agpavlik&show_icons=true&show_contribs=true@show_prs=true&hide_border=true&cache_seconds=86400&theme=github_dark)
 
-  [![GitHub Streak](https://streak-stats.demolab.com?user=agpavlik&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=agpavlik&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)
 
 </details>
 
