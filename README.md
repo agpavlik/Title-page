@@ -301,6 +301,10 @@ I am based in Ottawa, Canada. Feel free to connect with me:
     <img src="images/udemy.svg" width="50px" height="20px">
   </a></p>
 
+  <p><strong> - JavaScript Algorithms and Data Structures</strong>&nbsp&nbsp&nbsp<a href="https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/" target="_blank">
+  <img src="images/freeCode.png" width="110px" height="20px">
+  </a></p>
+
 </details>
 
 ---
