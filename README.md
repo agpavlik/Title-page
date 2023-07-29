@@ -190,6 +190,12 @@ I am based in Ottawa, Canada. Feel free to connect with me:
         </a>
         <br/><strong>VS Code</strong>
       </td>
+      <td align="center" height="108" min-width="108">
+        <a href="https://www.sublimetext.com/">
+          <img src="images/sublime.png" width="48" height="48" alt="VSCODE"/>
+        </a>
+        <br/><strong>Sublime</strong>
+      </td>
     </tr>
   </table>
 </details>
