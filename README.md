@@ -85,12 +85,6 @@ I am based in Ottawa, Canada. Feel free to connect with me:
         <br/><strong>Express</strong>
       </td>
       <td align="center" height="108" width="108">
-        <a href="https://getbootstrap.com/">
-          <img src="images/bootstrap.png" width="48" height="48" alt="Bootstrap"/>
-        </a>
-        <br/><strong>Bootstrap</strong>
-      </td>
-      <td align="center" height="108" width="108">
         <a href="https://jquery.com/">
           <img src="images/jquery.svg" width="48" height="48" alt="JQUERY"/>
         </a>
@@ -102,7 +96,16 @@ I am based in Ottawa, Canada. Feel free to connect with me:
         </a>
         <br/><strong>Rails</strong>
       </td>
-            <td align="center" height="108" width="108">
+    </tr>
+    <tr>
+      <td>Frameworks & Libraries</td>
+      <td align="center" height="108" width="108">
+        <a href="https://getbootstrap.com/">
+          <img src="images/bootstrap.png" width="48" height="48" alt="Bootstrap"/>
+        </a>
+        <br/><strong>Bootstrap</strong>
+      </td>
+      <td align="center" height="108" width="108">
         <a href="https://sass-lang.com/">
           <img src="images/sass.svg" width="48" height="48" alt="SASS"/>
         </a>
