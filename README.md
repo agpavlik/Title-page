@@ -33,7 +33,7 @@ I am based in Ottawa, Canada. Feel free to connect with me:
   <br>
   <table>  
     <tr> <!-- line 1 -->
-      <td>Languages</td>      
+      <td style="background-color: lightblue">Languages</td>      
       <td align="center" height="108" width="108">
         <a href="https://www.javascript.com/">
           <img src="images/javascript.svg" width="48" height="48" alt="JAVASCRIPT"/>
@@ -65,7 +65,7 @@ I am based in Ottawa, Canada. Feel free to connect with me:
       </td>
     </tr> 
     <tr> <!-- line 2 -->
-      <td>Frameworks & Libraries</td>    
+      <td> > :Frameworks & Libraries</td>    
       <td align="center" height="108" width="108">
         <a href="https://reactjs.org/">
           <img src="images/react.png" width="48" height="48" alt="REACT"/>
@@ -126,7 +126,7 @@ I am based in Ottawa, Canada. Feel free to connect with me:
         <a href="https://react-leaflet.js.org/">
           <img src="images/leaflet.png" width="48" height="48" alt="React Leaflet"/>
         </a>
-        <br/><strong>ReactLeaflet</strong>
+        <br/><strong>React Leaflet</strong>
       </td>
       <td align="center" height="108" width="108">
         <a href="https://react-hook-form.com/">
