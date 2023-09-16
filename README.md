@@ -33,7 +33,7 @@ I am based in Ottawa, Canada. Feel free to connect with me:
   <br>
   <table>  
     <tr> <!-- line 1 -->
-      <td><strong>Languages ➡️ </strong></td>      
+      <td><strong>Languages</strong></td>      
       <td align="center" height="108" width="108">
         <a href="https://www.javascript.com/">
           <img src="images/javascript.svg" width="48" height="48" alt="JAVASCRIPT"/>
@@ -65,7 +65,7 @@ I am based in Ottawa, Canada. Feel free to connect with me:
       </td>
     </tr> 
     <tr> <!-- line 2 -->
-      <td>Frameworks & Libraries</td>    
+      <td><strong>Frameworks & Libraries</strong></td>    
       <td align="center" height="108" width="108">
         <a href="https://reactjs.org/">
           <img src="images/react.png" width="48" height="48" alt="REACT"/>
@@ -162,7 +162,7 @@ I am based in Ottawa, Canada. Feel free to connect with me:
       </td>
     </tr>
     <tr> <!-- line 5 -->
-      <td>Databases</td>
+      <td><strong>Databases</strong></td>
       <td align="center" height="108" width="108">
         <a href="https://www.mongodb.com/">
           <img src="images/mongodb.png" width="48" height="48" alt="MONGODB"/>
@@ -183,7 +183,7 @@ I am based in Ottawa, Canada. Feel free to connect with me:
       </td>      
     </tr>
     <tr>
-      <td>Testing</td>
+      <td><strong>Testing</strong></td>
       <td align="center" height="108" width="108">
         <a href="https://www.cypress.io/">
           <img src="images/cypress.png" width="48" height="48" alt="CYPRESS"/>
@@ -214,7 +214,7 @@ I am based in Ottawa, Canada. Feel free to connect with me:
       </td>
     </tr>
     <tr> <!-- line 6 -->
-      <td>Design</td>
+      <td><strong>Design</strong></td>
       <td align="center" height="108" min-width="108">
         <img src="images/photoshop.svg" width="48" height="48" alt="PHOTOSHOP"/>
         <br/><strong>Photoshop</strong>
@@ -233,7 +233,7 @@ I am based in Ottawa, Canada. Feel free to connect with me:
       </td>
     </tr>
     <tr> <!-- line 7 -->
-      <td>Tools, Code editing etc.</td>
+      <td><strong>Tools, Code editing etc.</strong></td>
       <td align="center" height="108" min-width="108">
         <img src="images/git.png" width="48" height="48" alt="Git"/>
         <br /><strong>Git</strong>
