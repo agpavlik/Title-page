@@ -33,7 +33,7 @@ I am based in Ottawa, Canada. Feel free to connect with me:
   <br>
   <table>  
     <tr> <!-- line 1 -->
-      <td style="background-color:blue">Languages</td>      
+      <td style="color:red">Languages</td>      
       <td align="center" height="108" width="108">
         <a href="https://www.javascript.com/">
           <img src="images/javascript.svg" width="48" height="48" alt="JAVASCRIPT"/>
