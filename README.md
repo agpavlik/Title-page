@@ -150,7 +150,7 @@ I am based in Ottawa, Canada. Feel free to connect with me:
       </td>
       <td align="center" height="108" width="108">
         <a href="https://tailwindui.com/">
-          <img src="images/tailwind.svg" width="48" height="48" alt="Tailwind"/>
+          <img src="images/tailwind.svg" width="48" height="48" alt="TAILWIND"/>
         </a>
         <br/><strong>Tailwind</strong>
       </td>
