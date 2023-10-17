@@ -21,7 +21,7 @@ I am based in Ottawa, Canada. Feel free to connect with me:
   <a href="" target="_blank" rel="noreferrer">
     <img src="images/discord.png" width="38" height="38"/>
   </a>&nbsp&nbsp&nbsp
-  <a href="mailto:agpavlik@gmail.com" target="_blank" rel="noreferrer">
+  <a href="mailto:olekpavlyk@gmail.com" target="_blank" rel="noreferrer">
     <img src="images/gmail-one.png" width="38" height="38"/>
   </a>
 </p>
@@ -422,5 +422,3 @@ I am based in Ottawa, Canada. Feel free to connect with me:
 </details>
 
 ---
-
-[![Visitors](https://api.visitorbadge.io/api/visitors?path=agpavlik&label=VISITORS&labelColor=%230d1117&countColor=%231f6feb&style=plastic&labelStyle=none)](https://visitorbadge.io/status?path=agpavlik)
