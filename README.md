@@ -17,7 +17,7 @@ I am based in Ottawa, Canada. Feel free to connect with me:
 <p align="center" style="text-decoration:none">
   <a href="https://www.linkedin.com/in/alex-pavlyk/"
   target="blank" rel="noreferrer">
-    <img src="images/linkedin-one.png" width="38" height="38"/>
+    <img src="images/linkedin-one.svg" width="38" height="38"/>
   </a>&nbsp&nbsp&nbsp&nbsp
   <a href="" target="blank" rel="noreferrer">
     <img src="images/discord.png" width="38" height="38"/>
