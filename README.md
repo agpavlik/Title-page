@@ -19,7 +19,7 @@ I am based in Ottawa, Canada. Feel free to connect with me:
   target="blank" rel="noreferrer">
     <img src="images/linkedin-one.png" width="38" height="38"/>
   </a>
-  &nbsp&nbsp&nbsp&nbsp
+  
   <a href="" target="blank" rel="noreferrer">
     <img src="images/discord.png" width="38" height="38"/>
   </a>
