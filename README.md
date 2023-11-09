@@ -16,13 +16,15 @@ I am based in Ottawa, Canada. Feel free to connect with me:
 
 <p align="center" style="text-decoration:none">
   <a href="https://www.linkedin.com/in/alex-pavlyk/"
-  target="blank" rel="noreferrer">
+  target="_blank" rel="noreferrer">
     <img src="images/linkedin-one.png" width="38" height="38"/>
-  </a> &nbsp&nbsp&nbsp&nbsp
-  <a href="" target="blank" rel="noreferrer">
+  </a>&nbsp&nbsp&nbsp&nbsp
+  
+  <a href="" target="_blank" rel="noreferrer">
     <img src="images/discord.png" width="38" height="38"/>
-  </a> &nbsp&nbsp&nbsp&nbsp
-  <a href="mailto:olekpavlyk@gmail.com" target="blank" rel="noreferrer">
+  </a>&nbsp&nbsp&nbsp&nbsp
+
+  <a href="mailto:olekpavlyk@gmail.com" target="_blank" rel="noreferrer">
     <img src="images/gmail-one.png" width="38" height="38"/>
   </a>
 </p>
