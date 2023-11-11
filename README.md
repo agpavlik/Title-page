@@ -130,10 +130,11 @@ I am based in Ottawa, Canada. Feel free to connect with me:
         <br/><strong>React Leaflet</strong>
       </td>
       <td align="center" height="108" width="108">
-        <a href="https://tanstack.com/query/latest">
-          <img src="images/recharts.png" width="48" height="48" alt="Recharts"/>
+        <a href="https://react-hook-form.com/">
+          <img src="images/react-hook-form.png" width="48" height="48" alt="Hook Form"/>
         </a>
-        <br/><strong>Recharts</strong>
+        <br/><strong>React Hook Form</strong>
+      </td>
     </tr>
       <tr> <!-- line 4 -->
       <td align="center" height="108" width="108">
@@ -155,11 +156,16 @@ I am based in Ottawa, Canada. Feel free to connect with me:
         <br/><strong>date-fns</strong>
       </td>
       <td align="center" height="108" width="108">
-        <a href="https://react-hook-form.com/">
-          <img src="images/react-hook-form.png" width="48" height="48" alt="Hook Form"/>
+        <a href="https://recharts.org/en-US/">
+          <img src="images/recharts.png" width="48" height="48" alt="Recharts"/>
         </a>
-        <br/><strong>React Hook Form</strong>
+        <br/><strong>Recharts</strong>
       </td>
+      <td align="center" height="108" width="108">
+        <a href="https://www.chartjs.org/docs/latest/">
+          <img src="images/chartjs.png" width="48" height="48" alt="Chart.js"/>
+        </a>
+        <br/><strong>Chart.js</strong>
       </td>
     </tr>
     <tr> <!-- line 5 -->
