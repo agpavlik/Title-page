@@ -133,7 +133,7 @@ I am based in Ottawa, Canada. Feel free to connect with me:
         <a href="https://react-hook-form.com/">
           <img src="images/react-hook-form.png" width="48" height="48" alt="Hook Form"/>
         </a>
-        <br/><strong>Hook Form</strong>
+        <br/><strong>React Hook Form</strong>
       </td>
     </tr>
     <tr> <!-- line 4 -->
