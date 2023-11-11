@@ -162,7 +162,7 @@ I am based in Ottawa, Canada. Feel free to connect with me:
         <br/><strong>CSS Modules</strong>
       </td>
       <td align="center" height="108" width="108">
-        <a href="https://github.com/css-modules/css-modules">
+        <a href="https://styled-components.com/">
           <img src="images/sc.png" width="50" height="48" alt="Styled Components"/>
         </a>
         <br/><strong>Styled Components</strong>
@@ -253,7 +253,7 @@ I am based in Ottawa, Canada. Feel free to connect with me:
       </td>
       <td align="center" height="108" min-width="108">
         <a href="https://www.sublimetext.com/">
-          <img src="images/sublime.png" width="48" height="48" alt="VSCODE"/>
+          <img src="images/sublime.png" width="48" height="48" alt="Sublime"/>
         </a>
         <br/><strong>Sublime</strong>
       </td>
