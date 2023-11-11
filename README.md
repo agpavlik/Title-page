@@ -136,7 +136,33 @@ I am based in Ottawa, Canada. Feel free to connect with me:
         <br/><strong>React Hook Form</strong>
       </td>
     </tr>
-    <tr> <!-- line 4 -->
+      <tr> <!-- line 4 -->
+      <td align="center" height="108" width="108">
+        <a href="https://react-icons.github.io/react-icons">
+          <img src="images/react-icons.svg" width="48" height="48" alt="React Icons"/>
+        </a>
+        <br/><strong>React Icons</strong>
+      </td>      
+      <td align="center" height="108" width="108">
+        <a href="https://react-hot-toast.com/">
+          <img src="images/react-hot-toast.jpg" width="48" height="48" alt="React Hot Toast"/>
+        </a>
+        <br/><strong>React Hot Toast</strong>
+      </td>
+      <td align="center" height="108" width="108">
+        <a href="https://date-fns.org/">
+          <img src="images/date-fns.png" width="48" height="48" alt="date-fns"/>
+        </a>
+        <br/><strong>date-fns</strong>
+      </td>
+      <td align="center" height="108" width="108">
+        <a href="https://tanstack.com/query/latest">
+          <img src="images/recharts.png" width="48" height="48" alt="Recharts"/>
+        </a>
+        <br/><strong>Recharts</strong>
+      </td>
+    </tr>
+    <tr> <!-- line 5 -->
       <td align="center" height="108" width="108">
         <a href="https://getbootstrap.com/">
           <img src="images/bootstrap.png" width="48" height="48" alt="Bootstrap"/>
@@ -168,7 +194,7 @@ I am based in Ottawa, Canada. Feel free to connect with me:
         <br/><strong>Styled Components</strong>
       </td>
     </tr>
-    <tr> <!-- line 5 -->
+    <tr> <!-- line 6 -->
       <td><strong>Databases:</strong></td>
       <td align="center" height="108" width="108">
         <a href="https://www.mongodb.com/">
@@ -220,7 +246,7 @@ I am based in Ottawa, Canada. Feel free to connect with me:
         <br/><strong>RSpec</strong>
       </td>
     </tr>
-    <tr> <!-- line 6 -->
+    <tr> <!-- line 7 -->
       <td><strong>Design:</strong></td>
       <td align="center" height="108" min-width="108">
         <img src="images/photoshop.svg" width="48" height="48" alt="PHOTOSHOP"/>
@@ -239,7 +265,7 @@ I am based in Ottawa, Canada. Feel free to connect with me:
         <br/><strong>Krita</strong>
       </td>
     </tr>
-    <tr> <!-- line 7 -->
+    <tr> <!-- line 8 -->
       <td><strong>Tools, Code editing etc.:</strong></td>
       <td align="center" height="108" min-width="108">
         <img src="images/git.png" width="48" height="48" alt="Git"/>
