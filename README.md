@@ -157,9 +157,15 @@ I am based in Ottawa, Canada. Feel free to connect with me:
       </td>
       <td align="center" height="108" width="108">
         <a href="https://github.com/css-modules/css-modules">
-          <img src="images/css-modules.png" width="56" height="48" alt="CSS Modules"/>
+          <img src="images/css-modules.png" width="50" height="50" alt="CSS Modules"/>
         </a>
         <br/><strong>CSS Modules</strong>
+      </td>
+      <td align="center" height="108" width="108">
+        <a href="https://github.com/css-modules/css-modules">
+          <img src="images/sc.png" width="50" height="48" alt="Styled Components"/>
+        </a>
+        <br/><strong>Styled Components</strong>
       </td>
     </tr>
     <tr> <!-- line 5 -->
