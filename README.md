@@ -402,25 +402,33 @@ I am based in Ottawa, Canada. Feel free to connect with me:
   <summary style="font-size:24px"> I am currently learning 📝 </summary>
 <br>
  
-  <p><strong> ✅ The Ultimate React Course 2023: React, Redux & More</strong>&nbsp&nbsp&nbsp
-    <a href="https://www.udemy.com/course/the-ultimate-react-course/learn/lecture/37351178?start=15#learning-tools" target="_blank">
-      <img src="images/udemy.svg" width="50px" height="20px">
-    </a> 
-    <br>Front-end development with React and modern libraries course. Context API, React Query, Redux Toolkit, React Hook Form, Tailwind CSS, CSS Modules, Supabase, React Leaflet, advanced patterns etc.
-  </p>
-
-  <p><strong> ✅ The MERN Fullstack Guide</strong>&nbsp&nbsp&nbsp
+  <p><strong> ☑️ The MERN Fullstack Guide</strong>&nbsp&nbsp&nbsp
     <a href="https://www.udemy.com/course/react-nodejs-express-mongodb-the-mern-fullstack-guide/learn/lecture/16851138?start=60#overview" target="_blank">
       <img src="images/udemy.svg" width="50px" height="20px">
    </a>
    <br> Build fullstack React.js applications with Node.js, Express.js & MongoDB (MERN). Also learn how to add file upload, authentication, authorization and how to deploy your application in different ways to different hosting services.
   </p>
 
-  <p><strong> ✅ Next JS & Open AI / GPT</strong>&nbsp&nbsp&nbsp
+  <p><strong> ☑️ Next JS & Open AI / GPT</strong>&nbsp&nbsp&nbsp
     <a href="https://www.udemy.com/course/next-js-ai/learn/lecture/36383544?start=15#overview" target="_blank">
       <img src="images/udemy.svg" width="50px" height="20px">
    </a>
   <br>Build an SEO-friendly blog post gen app with auth0, GPT, stripe payments, Tailwind, & MongoDB
+  </p>
+
+</details>
+
+---
+
+<details>
+  <summary style="font-size:24px"> Completed Cources ✅ </summary>
+<br>
+
+  <p><strong> ✅ The Ultimate React Course 2023: React, Redux & More</strong>&nbsp&nbsp&nbsp
+    <a href="https://www.udemy.com/course/the-ultimate-react-course/learn/lecture/37351178?start=15#learning-tools" target="_blank">
+      <img src="images/udemy.svg" width="50px" height="20px">
+    </a> 
+    <br>Front-end development with React and modern libraries course. Context API, React Query, Redux Toolkit, React Hook Form, Tailwind CSS, CSS Modules, Supabase, React Leaflet, advanced patterns etc.
   </p>
 
   <p><strong> ✅ JavaScript Algorithms and Data Structures</strong>&nbsp&nbsp&nbsp<a href="https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/" target="_blank">
