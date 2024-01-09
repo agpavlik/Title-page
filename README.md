@@ -416,13 +416,6 @@ I am based in Ottawa, Canada. Feel free to connect with me:
   <br>Build an SEO-friendly blog post gen app with auth0, GPT, stripe payments, Tailwind, & MongoDB
   </p>
 
-  <p><strong> ☑️ JavaScript: The Advanced Concepts</strong>&nbsp&nbsp&nbsp
-    <a href="https://www.udemy.com/course/advanced-javascript-concepts/" target="_blank">
-      <img src="images/udemy.svg" width="50px" height="20px">
-   </a>
-  <br>Learn modern advanced JavaScript practices and be in the top 10% of JavaScript developers
-  </p>
-
   <p><strong> ☑️ Typescript: The Complete Developer's Guide</strong>&nbsp&nbsp&nbsp
     <a href="https://www.udemy.com/course/typescript-the-complete-developers-guide/" target="_blank">
       <img src="images/udemy.svg" width="50px" height="20px">
@@ -443,6 +436,13 @@ I am based in Ottawa, Canada. Feel free to connect with me:
       <img src="images/udemy.svg" width="50px" height="20px">
     </a> 
     <br>Front-end development with React and modern libraries course. Context API, React Query, Redux Toolkit, React Hook Form, Tailwind CSS, CSS Modules, Supabase, React Leaflet, advanced patterns etc.
+  </p>
+
+  <p><strong> ✅ JavaScript: The Advanced Concepts</strong>&nbsp&nbsp&nbsp
+    <a href="https://www.udemy.com/course/advanced-javascript-concepts/" target="_blank">
+      <img src="images/udemy.svg" width="50px" height="20px">
+   </a>
+  <br>Learn modern advanced JavaScript practices and be in the top 10% of JavaScript developers
   </p>
 
   <p><strong> ✅ JavaScript Algorithms and Data Structures</strong>&nbsp&nbsp&nbsp<a href="https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/" target="_blank">
