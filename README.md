@@ -321,7 +321,7 @@ I am based in Ottawa, Canada. Feel free to connect with me:
     <td width="50%" valign="top">
       <h3 align="center">Map-Marker</h3>
 
-![](https://github.com/agpavlik/map-maker/blob/master/public/docs/demo44.gif)
+![](https://github.com/agpavlik/map-maker/blob/main/public/docs/demo44.gif)
 
   <a href="https://github.com/agpavlik/Map-Marker" target="_blank">
       <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github">
@@ -349,7 +349,7 @@ I am based in Ottawa, Canada. Feel free to connect with me:
     <td width="50%" valign="top">
       <h3 align="center">Pizzolino</h3>
 
-![](https://github.com/agpavlik/LHL-project-decision-maker/blob/master/public/docs/demo46.gif)
+![](https://github.com/agpavlik/LHL-project-decision-maker/blob/main/public/docs/demo46.gif)
 
   <a href="https://github.com/agpavlik/Pizzolino" target="_blank">
       <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github">
