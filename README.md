@@ -360,14 +360,14 @@ I am based in Ottawa, Canada. Feel free to connect with me:
   </td>
 <!-- 4 project -->
   <td width="50%" bordercolor="#66b2b2" valign="top">
-    <h3 align="center">MythiCare</h3>
-<img src="https://github.com/agpavlik/LHL-project-MythiCare/blob/main/docs/Screenshot_13.png" width="100%">
+    <h3 align="center">React Quiz</h3>
+![](https://github.com/agpavlik/Udemy-react-quiz/blob/main/public/demo25.gif)
 
-  <a href="https://github.com/agpavlik/LHL-project-MythiCare" target="_blank">
+  <a href="https://github.com/agpavlik/Udemy-react-quiz" target="_blank">
       <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github">
     </a>  
-      <p><strong>React, Bootstrap, Node, Express, PostgreSQL</strong></p>
-      <p>A pet sitting app where you can find or become a sitter for the pets.</p>
+      <p><strong>React, Reducer</strong></p>
+      <p>A little quiz</p>
     </td>
   </tr>
 <!-- 5 project -->
