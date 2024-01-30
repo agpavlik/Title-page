@@ -361,6 +361,7 @@ I am based in Ottawa, Canada. Feel free to connect with me:
 <!-- 4 project -->
   <td width="50%" bordercolor="#66b2b2" valign="top">
     <h3 align="center">React Quiz</h3>
+    
 ![](https://github.com/agpavlik/Udemy-react-quiz/blob/main/public/demo25.gif)
 
   <a href="https://github.com/agpavlik/Udemy-react-quiz" target="_blank">
