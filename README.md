@@ -169,7 +169,7 @@ I am based in Ottawa, Canada. Feel free to connect with me:
       </td> 
     </tr>
     <tr> <!-- line 5 -->
-      <td><strong>Databases:</strong></td>
+      <td><strong>Useful libraries:</strong></td>
             <td align="center" height="108" width="108">
         <a href="https://react-icons.github.io/react-icons">
           <img src="images/react-icons.svg" width="48" height="48" alt="React Icons"/>
