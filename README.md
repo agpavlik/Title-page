@@ -331,7 +331,22 @@ I am based in Ottawa, Canada. Feel free to connect with me:
   </td>
 
 <!-- 2 project -->
-  <td width="50%" bordercolor="#66b2b2" valign="top">
+<td width="50%" valign="top">
+      <h3 align="center">Pizzolino</h3>
+
+![](https://github.com/agpavlik/pizzolino/blob/main/public/docs/demo46.gif)
+
+  <a href="https://github.com/agpavlik/Pizzolino" target="_blank">
+      <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github">
+    </a> 
+    <p><strong>React, React Router, Redux, Tailwind CSS, Vite</strong></p>
+    <p>The application allows users to order pizza fast requiring no user account and no login.</p>
+  </td>
+  </tr>
+
+<!-- 3 project -->
+  <tr>
+    <td width="50%" bordercolor="#66b2b2" valign="top">
     <h3 align="center">Oasis Backside</h3>
 
 ![](https://github.com/agpavlik/Oasis-Backside/blob/main/public/docs/demo45.gif)
@@ -343,21 +358,6 @@ I am based in Ottawa, Canada. Feel free to connect with me:
       <p>Oasis Backside is the internal application used inside the hotel to manage bookings, rooms and guests.</p>
     </td>
   </tr>
-
-<!-- 3 project -->
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">Pizzolino</h3>
-
-![](https://github.com/agpavlik/LHL-project-decision-maker/blob/main/public/docs/demo46.gif)
-
-  <a href="https://github.com/agpavlik/Pizzolino" target="_blank">
-      <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github">
-    </a> 
-    <p><strong>React, React Router, Redux, Tailwind CSS, Vite</strong></p>
-    <p>The application allows users to order pizza fast requiring no user account and no login.</p>
-  </td>
-
 <!-- 4 project -->
   <td width="50%" bordercolor="#66b2b2" valign="top">
     <h3 align="center">MythiCare</h3>
