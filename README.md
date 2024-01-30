@@ -8,7 +8,7 @@ development. I am passionate about creating intuitive web applications and enjoy
 knowledge, enabling me to take a holistic approach to challenges.
 
 You can find more information regarding my skills and experience in my resume.
-<a href="./Alexander_Pavlyk_Resume.pdf"><img width="38px" src="images/cv.png" onmouseover='this.src="images/discord.png"' onmouseout="this.src='images/cv-black.png'"></a>
+<a href="https://flowcv.com/resume/95vgl16kej"><img width="38px" src="images/cv.png" onmouseover='this.src="images/discord.png"' onmouseout="this.src='images/cv-black.png'"></a>
 
 Also, you can uncover the set of technologies and tools I experienced with and implemented projects listed below.
 
@@ -19,7 +19,7 @@ I am based in Ottawa, Canada. Feel free to connect with me:
   target="_blank" rel="noreferrer">
     <img src="images/linkedin-one.png" width="38" height="38"/>
   </a>&nbsp&nbsp&nbsp&nbsp
-  <a href="" target="_blank" rel="noreferrer">
+  <a href="https://discordapp.com/users/1085667541902442638" target="_blank" rel="noreferrer">
     <img src="images/discord.png" width="38" height="38"/>
   </a>&nbsp&nbsp&nbsp&nbsp
   <a href="mailto:olekpavlyk@gmail.com" target="_blank" rel="noreferrer">
@@ -66,46 +66,14 @@ I am based in Ottawa, Canada. Feel free to connect with me:
       </td>
     </tr> 
     <tr> <!-- line 2 -->
-      <td><strong>Frameworks & Libraries:</strong></td>    
+      <td><strong>Frontend:</strong></td>    
       <td align="center" height="108" width="108">
         <a href="https://reactjs.org/">
           <img src="images/react.png" width="48" height="48" alt="REACT"/>
         </a>
         <br/><strong>React</strong>
       </td>
-      <td align="center" height="108" width="108">
-        <a href="https://nodejs.org/en">
-          <img src="images/node.png" width="42" height="48" alt="Nodejs"/>
-        </a>
-        <br/><strong>Node.js</strong>
-      </td>
-      <td align="center" height="108" width="108">
-        <a href="https://expressjs.com/">
-          <img src="images/express.png" width="48" height="48" alt="Express"/>
-        </a>
-        <br/><strong>Express</strong>
-      </td>
-      <td align="center" height="108" width="108">
-        <a href="https://jquery.com/">
-          <img src="images/jquery.svg" width="48" height="48" alt="JQUERY"/>
-        </a>
-        <br/><strong>jQuery</strong>
-      </td>
-      <td align="center" height="108" width="108">
-        <a href="https://rubyonrails.org/">
-          <img src="images/rails.png" width="48" height="48" alt="RAILS"/>
-        </a>
-        <br/><strong>Rails</strong>
-      </td>
-    </tr>
-    <tr> <!-- line 3 -->
-      <td align="center" height="108" width="108">
-        <a href="https://nextjs.org/">
-          <img src="images/next.png" width="48" height="48" alt="Next.js"/>
-        </a>
-        <br/><strong>Next.js</strong>
-      </td>      
-      <td align="center" height="108" width="108">
+            <td align="center" height="108" width="108">
         <a href="https://redux.js.org/">
           <img src="images/redux.png" width="48" height="48" alt="Redux"/>
         </a>
@@ -117,59 +85,27 @@ I am based in Ottawa, Canada. Feel free to connect with me:
         </a>
         <br/><strong>React Router</strong>
       </td>
-      <td align="center" height="108" width="108">
+            <td align="center" height="108" width="108">
         <a href="https://tanstack.com/query/latest">
           <img src="images/react-query.png" width="48" height="48" alt="React Query"/>
         </a>
         <br/><strong>React Query</strong>
       </td>
       <td align="center" height="108" width="108">
-        <a href="https://react-leaflet.js.org/">
-          <img src="images/leaflet.png" width="48" height="48" alt="React Leaflet"/>
+        <a href="https://jquery.com/">
+          <img src="images/jquery.svg" width="48" height="48" alt="JQUERY"/>
         </a>
-        <br/><strong>React Leaflet</strong>
-      </td>
-      <td align="center" height="108" width="108">
-        <a href="https://react-hook-form.com/">
-          <img src="images/react-hook-form.png" width="48" height="48" alt="Hook Form"/>
-        </a>
-        <br/><strong>React Hook Form</strong>
+        <br/><strong>jQuery</strong>
       </td>
     </tr>
-      <tr> <!-- line 4 -->
+    <tr> <!-- line 3 -->
       <td align="center" height="108" width="108">
-        <a href="https://react-icons.github.io/react-icons">
-          <img src="images/react-icons.svg" width="48" height="48" alt="React Icons"/>
+        <a href="https://nextjs.org/">
+          <img src="images/next.png" width="48" height="48" alt="Next.js"/>
         </a>
-        <br/><strong>React Icons</strong>
+        <br/><strong>Next.js</strong>
       </td>      
-      <td align="center" height="108" width="108">
-        <a href="https://react-hot-toast.com/">
-          <img src="images/react-hot-toast.jpg" width="48" height="48" alt="React Hot Toast"/>
-        </a>
-        <br/><strong>React Hot Toast</strong>
-      </td>
-      <td align="center" height="108" width="108">
-        <a href="https://date-fns.org/">
-          <img src="images/date-fns.png" width="48" height="48" alt="date-fns"/>
-        </a>
-        <br/><strong>date-fns</strong>
-      </td>
-      <td align="center" height="108" width="108">
-        <a href="https://recharts.org/en-US/">
-          <img src="images/recharts.png" width="48" height="48" alt="Recharts"/>
-        </a>
-        <br/><strong>Recharts</strong>
-      </td>
-      <td align="center" height="108" width="108">
-        <a href="https://www.chartjs.org/docs/latest/">
-          <img src="images/chartjs.png" width="48" height="48" alt="Chart.js"/>
-        </a>
-        <br/><strong>Chart.js</strong>
-      </td>
-    </tr>
-    <tr> <!-- line 5 -->
-      <td align="center" height="108" width="108">
+            <td align="center" height="108" width="108">
         <a href="https://getbootstrap.com/">
           <img src="images/bootstrap.png" width="48" height="48" alt="Bootstrap"/>
         </a>
@@ -200,9 +136,20 @@ I am based in Ottawa, Canada. Feel free to connect with me:
         <br/><strong>Styled Components</strong>
       </td>
     </tr>
-    <tr> <!-- line 6 -->
-      <td><strong>Databases:</strong></td>
+      <tr> <!-- line 4 -->
+      <td><strong>Backend:</strong></td>
+            <td align="center" height="108" width="108">
+        <a href="https://nodejs.org/en">
+          <img src="images/node.png" width="42" height="48" alt="Nodejs"/>
+        </a>
+        <br/><strong>Node.js</strong>
+      </td>
       <td align="center" height="108" width="108">
+        <a href="https://expressjs.com/">
+          <img src="images/express.png" width="48" height="48" alt="Express"/>
+        </a>
+        <br/><strong>Express</strong>
+      </td>         <td align="center" height="108" width="108">
         <a href="https://www.mongodb.com/">
           <img src="images/mongodb.png" width="48" height="48" alt="MONGODB"/>
         </a>
@@ -219,9 +166,68 @@ I am based in Ottawa, Canada. Feel free to connect with me:
           <img src="images/supabase.svg" width="48" height="48"alt="SUPABASE"/>
         </a>
         <br/><strong>Supabase</strong>
-      </td>      
+      </td> 
     </tr>
-    <tr>
+    <tr> <!-- line 5 -->
+      <td><strong>Databases:</strong></td>
+            <td align="center" height="108" width="108">
+        <a href="https://react-icons.github.io/react-icons">
+          <img src="images/react-icons.svg" width="48" height="48" alt="React Icons"/>
+        </a>
+        <br/><strong>React Icons</strong>
+      </td>      
+      <td align="center" height="108" width="108">
+        <a href="https://react-hot-toast.com/">
+          <img src="images/react-hot-toast.jpg" width="48" height="48" alt="React Hot Toast"/>
+        </a>
+        <br/><strong>React Hot Toast</strong>
+      </td>
+      <td align="center" height="108" width="108">
+        <a href="https://date-fns.org/">
+          <img src="images/date-fns.png" width="48" height="48" alt="date-fns"/>
+        </a>
+        <br/><strong>date-fns</strong>
+      </td>
+      <td align="center" height="108" width="108">
+        <a href="https://recharts.org/en-US/">
+          <img src="images/recharts.png" width="48" height="48" alt="Recharts"/>
+        </a>
+        <br/><strong>Recharts</strong>
+      </td>
+      <td align="center" height="108" width="108">
+        <a href="https://www.chartjs.org/docs/latest/">
+          <img src="images/chartjs.png" width="48" height="48" alt="Chart.js"/>
+        </a>
+        <br/><strong>Chart.js</strong>
+      </td>
+      </tr>
+          <tr> <!-- line 6 -->
+            <td align="center" height="108" width="108">
+        <a href="https://www.fusioncharts.com/">
+          <img src="images/fusion.jpg" width="50" height="48" alt="FusionCharts"/>
+        </a>
+        <br/><strong>FusionCharts</strong>
+      </td>
+            <td align="center" height="108" width="108">
+        <a href="https://react-leaflet.js.org/">
+          <img src="images/leaflet.png" width="48" height="48" alt="React Leaflet"/>
+        </a>
+        <br/><strong>React Leaflet</strong>
+      </td>
+      <td align="center" height="108" width="108">
+        <a href="https://react-hook-form.com/">
+          <img src="images/react-hook-form.png" width="48" height="48" alt="Hook Form"/>
+        </a>
+        <br/><strong>React Hook Form</strong>
+      </td>
+            <td align="center" height="108" width="108">
+        <a href="https://threejs.org/">
+          <img src="images/three.png" width="48" height="48" alt="Three.js"/>
+        </a>
+        <br/><strong>Three.js</strong>
+      </td>
+    </tr>     
+    <tr> <!-- line 7 -->
       <td><strong>Testing:</strong></td>
       <td align="center" height="108" width="108">
         <a href="https://www.cypress.io/">
@@ -252,7 +258,7 @@ I am based in Ottawa, Canada. Feel free to connect with me:
         <br/><strong>RSpec</strong>
       </td>
     </tr>
-    <tr> <!-- line 7 -->
+    <tr> <!-- line 8 -->
       <td><strong>Design:</strong></td>
       <td align="center" height="108" min-width="108">
         <img src="images/photoshop.svg" width="48" height="48" alt="PHOTOSHOP"/>
@@ -271,7 +277,7 @@ I am based in Ottawa, Canada. Feel free to connect with me:
         <br/><strong>Krita</strong>
       </td>
     </tr>
-    <tr> <!-- line 8 -->
+    <tr> <!-- line 9 -->
       <td><strong>Tools, Code editing etc.:</strong></td>
       <td align="center" height="108" min-width="108">
         <img src="images/git.png" width="48" height="48" alt="Git"/>
@@ -313,6 +319,60 @@ I am based in Ottawa, Canada. Feel free to connect with me:
 <!-- 1 project -->
   <tr>
     <td width="50%" valign="top">
+      <h3 align="center">Map-Marker</h3>
+
+![](https://github.com/agpavlik/map-maker/blob/master/public/docs/demo44.gif)
+
+  <a href="https://github.com/agpavlik/Map-Marker" target="_blank">
+      <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github">
+    </a> 
+    <p><strong>React, React Router, CSS Modules, React Leaflet, React, Datepicker, Vite</strong></p>
+    <p>React-based single-page application where users can register all the cities that they have ever traveled to.</p>
+  </td>
+
+<!-- 2 project -->
+  <td width="50%" bordercolor="#66b2b2" valign="top">
+    <h3 align="center">Oasis Backside</h3>
+
+![](https://github.com/agpavlik/Oasis-Backside/blob/main/public/docs/demo45.gif)
+
+  <a href="https://github.com/agpavlik/Oasis-Backside" target="_blank">
+      <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github">
+    </a>  
+      <p><strong>React, React Router, React Query, React Hook Form, Supabase, Styled Components, Vite</strong></p>
+      <p>Oasis Backside is the internal application used inside the hotel to manage bookings, rooms and guests.</p>
+    </td>
+  </tr>
+
+<!-- 3 project -->
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">Pizzolino</h3>
+
+![](https://github.com/agpavlik/LHL-project-decision-maker/blob/master/public/docs/demo46.gif)
+
+  <a href="https://github.com/agpavlik/Pizzolino" target="_blank">
+      <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github">
+    </a> 
+    <p><strong>React, React Router, Redux, Tailwind CSS, Vite</strong></p>
+    <p>The application allows users to order pizza fast requiring no user account and no login.</p>
+  </td>
+
+<!-- 4 project -->
+  <td width="50%" bordercolor="#66b2b2" valign="top">
+    <h3 align="center">MythiCare</h3>
+<img src="https://github.com/agpavlik/LHL-project-MythiCare/blob/main/docs/Screenshot_13.png" width="100%">
+
+  <a href="https://github.com/agpavlik/LHL-project-MythiCare" target="_blank">
+      <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github">
+    </a>  
+      <p><strong>React, Bootstrap, Node, Express, PostgreSQL</strong></p>
+      <p>A pet sitting app where you can find or become a sitter for the pets.</p>
+    </td>
+  </tr>
+<!-- 5 project -->
+  <tr>
+    <td width="50%" valign="top">
       <h3 align="center">Pollarizing</h3>
 
 ![](https://github.com/agpavlik/LHL-project-decision-maker/blob/master/public/images/demo11.gif)
@@ -324,7 +384,7 @@ I am based in Ottawa, Canada. Feel free to connect with me:
     <p>Application allows users to make a decision by creating polls and voting.</p>
   </td>
 
-<!-- 2 project -->
+<!-- 6 project -->
   <td width="50%" bordercolor="#66b2b2" valign="top">
     <h3 align="center">MythiCare</h3>
 <img src="https://github.com/agpavlik/LHL-project-MythiCare/blob/main/docs/Screenshot_13.png" width="100%">
@@ -337,7 +397,7 @@ I am based in Ottawa, Canada. Feel free to connect with me:
     </td>
   </tr>
 
-<!-- 3 project -->
+<!-- 7 project -->
   <tr>
     <td width="50%" valign="top">
       <h3 align="center">Jungle</h3>
@@ -351,7 +411,7 @@ I am based in Ottawa, Canada. Feel free to connect with me:
     <p>A mini e-commerce application. Plants and flowers online shop.</p>
   </td>
 
-<!-- 4 project -->
+<!-- 8 project -->
   <td width="50%" bordercolor="#66b2b2" valign="top">
     <h3>PhotoLabs</h3>
 
@@ -365,7 +425,7 @@ I am based in Ottawa, Canada. Feel free to connect with me:
     </td>
   </tr>
 
-<!-- 5 project -->
+<!-- 9 project -->
   <tr>
     <td width="50%" valign="top">
       <h3 align="center">Tweeter</h3>
@@ -379,7 +439,7 @@ I am based in Ottawa, Canada. Feel free to connect with me:
     <p>Tweeter is a simple, single-page Twitter clone. </p>
   </td>
 
-<!-- 6 project -->
+<!-- 10 project -->
   <td width="50%" bordercolor="#66b2b2" valign="top">
     <h3>TinyApp</h3>
 
