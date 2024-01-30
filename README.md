@@ -318,17 +318,18 @@ I am based in Ottawa, Canada. Feel free to connect with me:
 <table bordercolor="#66b2b2">
 <!-- 1 project -->
   <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">Map-Marker</h3>
+    <tr>
+    <td width="50%" bordercolor="#66b2b2" valign="top">
+    <h3 align="center">Oasis Backside</h3>
 
-![](https://github.com/agpavlik/map-maker/blob/main/public/docs/demo44.gif)
+![](https://github.com/agpavlik/Oasis-Backside/blob/main/public/docs/demo45.gif)
 
-  <a href="https://github.com/agpavlik/Map-Marker" target="_blank">
+  <a href="https://github.com/agpavlik/Oasis-Backside" target="_blank">
       <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github">
-    </a> 
-    <p><strong>React, React Router, CSS Modules, React Leaflet, React, Datepicker, Vite</strong></p>
-    <p>React-based single-page application where users can register all the cities that they have ever traveled to.</p>
-  </td>
+    </a>  
+      <p><strong>React, React Router, React Query, React Hook Form, Supabase, Styled Components, Vite</strong></p>
+      <p>Oasis Backside is the internal application used inside the hotel to manage bookings, rooms and guests.</p>
+    </td>
 
 <!-- 2 project -->
 <td width="50%" valign="top">
@@ -346,18 +347,17 @@ I am based in Ottawa, Canada. Feel free to connect with me:
 
 <!-- 3 project -->
   <tr>
-    <td width="50%" bordercolor="#66b2b2" valign="top">
-    <h3 align="center">Oasis Backside</h3>
+        <td width="50%" valign="top">
+      <h3 align="center">Map-Marker</h3>
 
-![](https://github.com/agpavlik/Oasis-Backside/blob/main/public/docs/demo45.gif)
+![](https://github.com/agpavlik/map-maker/blob/main/public/docs/demo44.gif)
 
-  <a href="https://github.com/agpavlik/Oasis-Backside" target="_blank">
+  <a href="https://github.com/agpavlik/Map-Marker" target="_blank">
       <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github">
-    </a>  
-      <p><strong>React, React Router, React Query, React Hook Form, Supabase, Styled Components, Vite</strong></p>
-      <p>Oasis Backside is the internal application used inside the hotel to manage bookings, rooms and guests.</p>
-    </td>
-  </tr>
+    </a> 
+    <p><strong>React, React Router, CSS Modules, React Leaflet, React, Datepicker, Vite</strong></p>
+    <p>React-based single-page application where users can register all the cities that they have ever traveled to.</p>
+  </td>
 <!-- 4 project -->
   <td width="50%" bordercolor="#66b2b2" valign="top">
     <h3 align="center">MythiCare</h3>
