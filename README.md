@@ -84,6 +84,11 @@ I am based in Ottawa, Canada. Feel free to connect with me:
           <img src="images/react-router.png" width="48" height="38" alt="React-router"/>
         </a>
         <br/><strong>React Router</strong>
+      <td align="center" height="108" width="108">
+        <a href="https://axios-http.com/docs/intro">
+          <img src="images/axios.png" width="58" height="48" alt="Axios"/>
+        </a>
+        <br/><strong>Axios</strong>
       </td>
             <td align="center" height="108" width="108">
         <a href="https://tanstack.com/query/latest">
