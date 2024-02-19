@@ -140,6 +140,12 @@ I am based in Ottawa, Canada. Feel free to connect with me:
         </a>
         <br/><strong>Styled Components</strong>
       </td>
+                  <td align="center" height="108" width="108">
+        <a href="https://mui.com/">
+          <img src="images/mui.svg" width="48" height="48" alt="MaterialUI"/>
+        </a>
+        <br/><strong>Material UI</strong>
+      </td>
     </tr>
       <tr> <!-- line 4 -->
       <td><strong>Backend:</strong></td>
@@ -205,6 +211,12 @@ I am based in Ottawa, Canada. Feel free to connect with me:
         </a>
         <br/><strong>Chart.js</strong>
       </td>
+                  <td align="center" height="108" width="108">
+        <a href="https://threejs.org/">
+          <img src="images/three.png" width="48" height="48" alt="Three.js"/>
+        </a>
+        <br/><strong>Three.js</strong>
+      </td>
       </tr>
           <tr> <!-- line 6 -->
             <td align="center" height="108" width="108">
@@ -224,12 +236,6 @@ I am based in Ottawa, Canada. Feel free to connect with me:
           <img src="images/react-hook-form.png" width="48" height="48" alt="Hook Form"/>
         </a>
         <br/><strong>React Hook Form</strong>
-      </td>
-            <td align="center" height="108" width="108">
-        <a href="https://threejs.org/">
-          <img src="images/three.png" width="48" height="48" alt="Three.js"/>
-        </a>
-        <br/><strong>Three.js</strong>
       </td>
     </tr>     
     <tr> <!-- line 7 -->
