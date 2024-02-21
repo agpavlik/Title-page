@@ -3,7 +3,7 @@
 </div>
 
 </br>
-Full-stack developer with a commitment to continuous professional
+Proficient and skilled Full-stack developer with a commitment to continuous professional
 development. I am passionate about creating intuitive web applications and enjoy diving into new engrossing projects. My background in business analysis, banking, and property appraisal gives me a splendid combination of skills and
 knowledge, enabling me to take a holistic approach to challenges.
 
@@ -237,6 +237,11 @@ I am based in Ottawa, Canada. Feel free to connect with me:
         </a>
         <br/><strong>React Hook Form</strong>
       </td>
+            <td align="center" height="108" width="108">
+        <a href="https://wind-ui.com/">
+          <img src="images/wind.jpg" width="48" height="48" alt="Wind UI"/>
+        </a>
+        <br/><strong>Wind UI</strong>       </td>
     </tr>     
     <tr> <!-- line 7 -->
       <td><strong>Testing:</strong></td>
