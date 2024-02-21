@@ -81,7 +81,7 @@ I am based in Ottawa, Canada. Feel free to connect with me:
       </td>
       <td align="center" height="108" width="108">
         <a href="https://reactrouter.com/en/main">
-          <img src="images/react-router.png" width="52" height="35" alt="React-router"/>
+          <img src="images/react-router.png" width="52" height="33" alt="React-router"/>
         </a>
         <br/><strong>React Router</strong>
       <td align="center" height="108" width="108">
