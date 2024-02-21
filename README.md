@@ -292,6 +292,12 @@ I am based in Ottawa, Canada. Feel free to connect with me:
         </a>
         <br/><strong>Krita</strong>
       </td>
+            <td align="center" height="108" min-width="108">
+        <a href="https://coolors.co/">
+          <img src="images/coolors.svg" width="60" height="48" alt="Coolors"/>
+        </a>
+        <br/><strong>Coolors</strong>
+      </td>
     </tr>
     <tr> <!-- line 9 -->
       <td><strong>Tools, Code editing etc.:</strong></td>
