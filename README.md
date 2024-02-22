@@ -180,7 +180,7 @@ I am based in Ottawa, Canada. Feel free to connect with me:
       </td>
       <td align="center" height="108" width="108">
         <a href="https://mongoosejs.com/">
-          <img src="images/mongoose.png" width="60" height="60" alt="Mongoose"/>
+          <img src="images/mongoose.png" width="60" height="38" alt="Mongoose"/>
         </a>
         <br/><strong>Mongoose</strong>
       </td>  
