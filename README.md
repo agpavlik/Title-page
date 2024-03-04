@@ -397,7 +397,7 @@ I am based in Ottawa, Canada. Feel free to connect with me:
   <td width="50%" bordercolor="#66b2b2" valign="top">
     <h3 align="center">Flashback-Up</h3>
     
-![](https://github.com/agpavlik/Geo/tree/main/public/docs/demo65.gif)
+![](https://github.com/agpavlik/Geo/blob/main/public/docs/demo65.gif)
 
   <a href="https://github.com/agpavlik/Geo" target="_blank">
       <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github">
