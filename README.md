@@ -397,7 +397,7 @@ I am based in Ottawa, Canada. Feel free to connect with me:
   <td width="50%" bordercolor="#66b2b2" valign="top">
     <h3 align="center">Flashback-Up</h3>
     
-![](https://github.com/agpavlik/Geo/public/docs/demo65.gif)
+![](https://github.com/agpavlik/Geo/main/public/docs/demo65.gif)
 
   <a href="https://github.com/agpavlik/Geo" target="_blank">
       <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github">
@@ -513,11 +513,11 @@ I am based in Ottawa, Canada. Feel free to connect with me:
   <summary style="font-size:24px"> I am currently learning 📝 </summary>
 <br>
  
-  <p><strong> ☑️ The MERN Fullstack Guide</strong>&nbsp&nbsp&nbsp
-    <a href="https://www.udemy.com/course/react-nodejs-express-mongodb-the-mern-fullstack-guide/learn/lecture/16851138?start=60#overview" target="_blank">
+  <p><strong> ☑️ React Native - The Practical Guide [2024]</strong>&nbsp&nbsp&nbsp
+    <a href="https://www.udemy.com/course/react-native-the-practical-guide/learn/lecture/31197308?start=0#overview" target="_blank">
       <img src="images/udemy.svg" width="50px" height="20px">
    </a>
-   <br> Build fullstack React.js applications with Node.js, Express.js & MongoDB (MERN). Also learn how to add file upload, authentication, authorization and how to deploy your application in different ways to different hosting services.
+   <br> Use React Native to build native iOS and Android Apps - incl. Push Notifications, Hooks, Redux.
   </p>
 
   <p><strong> ☑️ Next JS & Open AI / GPT</strong>&nbsp&nbsp&nbsp
@@ -547,6 +547,13 @@ I am based in Ottawa, Canada. Feel free to connect with me:
       <img src="images/udemy.svg" width="50px" height="20px">
     </a> 
     <br>Front-end development with React and modern libraries course. Context API, React Query, Redux Toolkit, React Hook Form, Tailwind CSS, CSS Modules, Supabase, React Leaflet, advanced patterns etc.
+  </p>
+
+  <p><strong> ✅ The MERN Fullstack Guide</strong>&nbsp&nbsp&nbsp
+    <a href="https://www.udemy.com/course/react-nodejs-express-mongodb-the-mern-fullstack-guide/learn/lecture/16851138?start=60#overview" target="_blank">
+      <img src="images/udemy.svg" width="50px" height="20px">
+   </a>
+   <br> Build fullstack React.js applications with Node.js, Express.js & MongoDB (MERN). Also learn how to add file upload, authentication, authorization and how to deploy your application in different ways to different hosting services.
   </p>
 
   <p><strong> ✅ JavaScript: The Advanced Concepts</strong>&nbsp&nbsp&nbsp
