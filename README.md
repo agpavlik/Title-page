@@ -341,6 +341,14 @@ I am based in Ottawa, Canada. Feel free to connect with me:
         <br/><strong>Linux</strong>
       </td>
     </tr>
+    <tr> <!-- line 10 -->
+      <td align="center" height="108" min-width="108">
+      <a href="https://render.com/">
+        <img src="images/render.png" width="48" height="48" alt="Render"/>
+        </a>
+        <br/><strong>Render</strong>
+      </td>
+    </tr>
   </table>
 </details>
 
