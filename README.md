@@ -160,12 +160,7 @@ I am based in Ottawa, Canada. Feel free to connect with me:
           <img src="images/express.png" width="48" height="48" alt="Express"/>
         </a>
         <br/><strong>Express</strong>
-      </td>         <td align="center" height="108" width="108">
-        <a href="https://www.mongodb.com/">
-          <img src="images/mongodb.png" width="48" height="48" alt="MONGODB"/>
-        </a>
-        <br/><strong>MongoDB</strong>
-      </td>
+      </td>         
       <td align="center" height="108" width="108">
         <a href="https://www.postgresql.org/">
           <img src="images/postgresql.png" width="48" height="48"alt="POSTGRESQL"/>
@@ -177,6 +172,12 @@ I am based in Ottawa, Canada. Feel free to connect with me:
           <img src="images/supabase.svg" width="48" height="48" alt="SUPABASE"/>
         </a>
         <br/><strong>Supabase</strong>
+      </td>
+      <td align="center" height="108" width="108">
+        <a href="https://www.mongodb.com/">
+          <img src="images/mongodb.png" width="48" height="48" alt="MONGODB"/>
+        </a>
+        <br/><strong>MongoDB</strong>
       </td>
       <td align="center" height="108" width="108">
         <a href="https://mongoosejs.com/">
@@ -394,15 +395,15 @@ I am based in Ottawa, Canada. Feel free to connect with me:
   </td>
 <!-- 4 project -->
   <td width="50%" bordercolor="#66b2b2" valign="top">
-    <h3 align="center">React Quiz</h3>
+    <h3 align="center">Flashback-Up</h3>
     
-![](https://github.com/agpavlik/Udemy-react-quiz/blob/main/public/demo25.gif)
+![](https://github.com/agpavlik/Geo/public/demo65.gif)
 
-  <a href="https://github.com/agpavlik/Udemy-react-quiz" target="_blank">
+  <a href="https://github.com/agpavlik/Geo" target="_blank">
       <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github">
     </a>  
-      <p><strong>React, Reducer</strong></p>
-      <p>A little quiz</p>
+      <p><strong>React.js, React Router, Axios, Node.js, Express.js, MongoDB, Mongoose, bcrypt.js, jsonwebtoken</strong></p>
+      <p>Flashback-Up allows users to store remarkable places that they would like to memorize and share with the community.</p>
     </td>
   </tr>
 <!-- 5 project -->
@@ -462,7 +463,20 @@ I am based in Ottawa, Canada. Feel free to connect with me:
 
 <!-- 9 project -->
   <tr>
-    <td width="50%" valign="top">
+  <td width="50%" bordercolor="#66b2b2" valign="top">
+    <h3 align="center">React Quiz</h3>
+    
+![](https://github.com/agpavlik/Udemy-react-quiz/blob/main/public/demo25.gif)
+
+  <a href="https://github.com/agpavlik/Udemy-react-quiz" target="_blank">
+      <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github">
+    </a>  
+      <p><strong>React, Reducer</strong></p>
+      <p>A little quiz</p>
+    </td>
+
+<!-- 10 project -->
+<td width="50%" valign="top">
       <h3 align="center">Tweeter</h3>
 
 ![](https://github.com/agpavlik/LHL-project-tweeter/blob/master/public/docs/demo2.gif)
@@ -473,8 +487,10 @@ I am based in Ottawa, Canada. Feel free to connect with me:
     <p><strong>HTML, CSS, JS, jQuery, Express, Node</strong></p>
     <p>Tweeter is a simple, single-page Twitter clone. </p>
   </td>
+  </tr>
 
-<!-- 10 project -->
+<!-- 11 project -->
+  <tr>
   <td width="50%" bordercolor="#66b2b2" valign="top">
     <h3>TinyApp</h3>
 
