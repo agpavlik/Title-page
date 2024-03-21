@@ -319,7 +319,34 @@ I am based in Ottawa, Canada. Feel free to connect with me:
         <br/><strong>Coolors</strong>
       </td>
     </tr>
-    <tr> <!-- line 9 -->
+        <tr> <!-- line 9 -->
+      <td><strong>Deploying:</strong></td>
+      <td align="center" height="108" min-width="108">
+      <a href="https://www.netlify.com/">
+        <img src="images/netlify.svg" width="48" height="48" alt="NETLIFY"/>
+        </a>
+        <br/><strong>Netlify</strong>
+      </td>
+      <td align="center" height="108" min-width="108">
+        <a href="https://www.vercel.com/">
+          <img src="images/vercel.jpg" width="48" height="48" alt="VERCEL"/>
+        </a>
+        <br/><strong>Vercel</strong>
+      </td>
+      <td align="center" height="108" min-width="108">
+        <a href="https://cloud.digitalocean.com/">
+          <img src="images/do.png" width="48" height="48" alt="DIGITAL OCEAN"/>
+        </a>
+        <br/><strong>Digital Ocean</strong>
+      </td>
+      <td align="center" height="108" min-width="108">
+      <a href="https://render.com/">
+        <img src="images/render.png" width="48" height="48" alt="Render"/>
+        </a>
+        <br/><strong>Render</strong>
+      </td>
+    </tr>
+    <tr> <!-- line 10 -->
       <td><strong>Tools, Code editing etc.:</strong></td>
       <td align="center" height="108" min-width="108">
         <img src="images/git.png" width="48" height="48" alt="Git"/>
@@ -352,14 +379,6 @@ I am based in Ottawa, Canada. Feel free to connect with me:
             <td align="center" height="108" min-width="108">
         <img src="images/linux.svg" width="48" height="48" alt="LINUX"/>
         <br/><strong>Linux</strong>
-      </td>
-    </tr>
-    <tr> <!-- line 10 -->
-      <td align="center" height="108" min-width="108">
-      <a href="https://render.com/">
-        <img src="images/render.png" width="48" height="48" alt="Render"/>
-        </a>
-        <br/><strong>Render</strong>
       </td>
     </tr>
   </table>
