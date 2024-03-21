@@ -248,7 +248,20 @@ I am based in Ottawa, Canada. Feel free to connect with me:
         <a href="https://wind-ui.com/">
           <img src="images/wind.jpg" width="48" height="48" alt="Wind UI"/>
         </a>
-        <br/><strong>Wind UI</strong>       </td>
+        <br/><strong>Wind UI</strong>       
+        </td>
+            <td align="center" height="108" width="108">
+        <a href="https://openai.com/">
+          <img src="images/openAI.png" width="48" height="48" alt="OpenAI"/>
+        </a>
+        <br/><strong>OpenAI</strong>       
+        </td>
+          <td align="center" height="108" width="108">
+        <a href="https://auth0.com/">
+          <img src="images/auth.png" width="48" height="48" alt="Auth0"/>
+        </a>
+        <br/><strong>Auth0</strong>       
+        </td>
     </tr>     
     <tr> <!-- line 7 -->
       <td><strong>Testing:</strong></td>
@@ -375,6 +388,22 @@ I am based in Ottawa, Canada. Feel free to connect with me:
     </td>
 
 <!-- 2 project -->
+
+<td width="50%" valign="top">
+      <h3 align="center">Blogener</h3>
+
+![](https://github.com/agpavlik/Blogener/blob/main/public/docs/demo67.gif)
+
+  <a href="https://github.com/agpavlik/Blogener" target="_blank">
+      <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github">
+    </a> 
+    <p><strong>OpenAI, React, Next.js, MongoDB, Tailwind CSS, Auth0, Stripe</strong></p>
+    <p>The AI-powered SAAS solution to generate SEO-optimized blog posts in minutes. Get high-quality content, without sacrificing your time.</p>
+  </td>
+  </tr>
+
+<!-- 3 project -->
+<tr>
 <td width="50%" valign="top">
       <h3 align="center">Pizzolino</h3>
 
@@ -386,12 +415,10 @@ I am based in Ottawa, Canada. Feel free to connect with me:
     <p><strong>React, React Router, Redux, Tailwind CSS, Vite</strong></p>
     <p>The application allows users to order pizza fast requiring no user account and no login.</p>
   </td>
-  </tr>
 
-<!-- 3 project -->
-  <tr>
-        <td width="50%" valign="top">
-      <h3 align="center">Map-Marker</h3>
+<!-- 4 project -->
+  <td width="50%" valign="top">
+  <h3 align="center">Map-Marker</h3>
 
 ![](https://github.com/agpavlik/map-maker/blob/main/public/docs/demo44.gif)
 
@@ -401,7 +428,9 @@ I am based in Ottawa, Canada. Feel free to connect with me:
     <p><strong>React, React Router, CSS Modules, React Leaflet, React, Datepicker, Vite</strong></p>
     <p>React-based single-page application where users can register all the cities that they have ever traveled to.</p>
   </td>
-<!-- 4 project -->
+  </tr>
+<!-- 5 project -->
+<tr>
   <td width="50%" bordercolor="#66b2b2" valign="top">
     <h3 align="center">Flashback-Up</h3>
     
@@ -413,9 +442,7 @@ I am based in Ottawa, Canada. Feel free to connect with me:
       <p><strong>React.js, React Router, Axios, Node.js, Express.js, MongoDB, Mongoose, bcrypt.js, jsonwebtoken</strong></p>
       <p>Flashback-Up allows users to store remarkable places that they would like to memorize and share with the community.</p>
     </td>
-  </tr>
-<!-- 5 project -->
-  <tr>
+<!-- 6 project -->
     <td width="50%" valign="top">
       <h3 align="center">Pollarizing</h3>
 
@@ -427,8 +454,9 @@ I am based in Ottawa, Canada. Feel free to connect with me:
     <p><strong>JavaScript, HTML, SASS, Bootstrap, Express, PostgreSQL, Chart.js</strong></p>
     <p>Application allows users to make a decision by creating polls and voting.</p>
   </td>
-
-<!-- 6 project -->
+</tr>
+<!-- 7 project -->
+<tr>
   <td width="50%" bordercolor="#66b2b2" valign="top">
     <h3 align="center">MythiCare</h3>
 <img src="https://github.com/agpavlik/LHL-project-MythiCare/blob/main/docs/Screenshot_13.png" width="100%">
@@ -439,11 +467,9 @@ I am based in Ottawa, Canada. Feel free to connect with me:
       <p><strong>React, Bootstrap, Node, Express, PostgreSQL</strong></p>
       <p>A pet sitting app where you can find or become a sitter for the pets.</p>
     </td>
-  </tr>
 
-<!-- 7 project -->
-  <tr>
-    <td width="50%" valign="top">
+<!-- 8 project -->
+<td width="50%" valign="top">
       <h3 align="center">Jungle</h3>
 
 ![](https://github.com/agpavlik/LHL-project-Jungle/blob/master/public/docs/demo9.gif)
@@ -454,8 +480,10 @@ I am based in Ottawa, Canada. Feel free to connect with me:
     <p><strong>Ruby on Rails, PostgreSQL, Strap</strong></p>
     <p>A mini e-commerce application. Plants and flowers online shop.</p>
   </td>
+  </tr>
 
-<!-- 8 project -->
+<!-- 9 project -->
+<tr>
   <td width="50%" bordercolor="#66b2b2" valign="top">
     <h3>PhotoLabs</h3>
 
@@ -467,10 +495,8 @@ I am based in Ottawa, Canada. Feel free to connect with me:
       <p><strong>React, Bootstrap, Node, Express, MongoDB</strong></p>
       <p>A React-based SPA that allows users to view photos in different contexts.</p>
     </td>
-  </tr>
 
-<!-- 9 project -->
-  <tr>
+<!-- 10 project -->
   <td width="50%" bordercolor="#66b2b2" valign="top">
     <h3 align="center">React Quiz</h3>
     
@@ -482,8 +508,9 @@ I am based in Ottawa, Canada. Feel free to connect with me:
       <p><strong>React, Reducer</strong></p>
       <p>A little quiz</p>
     </td>
-
-<!-- 10 project -->
+</tr>
+<!-- 11 project -->
+<tr>
 <td width="50%" valign="top">
       <h3 align="center">Tweeter</h3>
 
@@ -495,10 +522,8 @@ I am based in Ottawa, Canada. Feel free to connect with me:
     <p><strong>HTML, CSS, JS, jQuery, Express, Node</strong></p>
     <p>Tweeter is a simple, single-page Twitter clone. </p>
   </td>
-  </tr>
 
-<!-- 11 project -->
-  <tr>
+<!-- 12 project -->
   <td width="50%" bordercolor="#66b2b2" valign="top">
     <h3>TinyApp</h3>
 
@@ -510,6 +535,7 @@ I am based in Ottawa, Canada. Feel free to connect with me:
       <p><strong>Node, Express</strong></p>
       <p>TinyApp is a full stack web application that allows users to shorten long URLs</p>
     </td>
+  </tr>
   </tr>
 </table>
 </section>
