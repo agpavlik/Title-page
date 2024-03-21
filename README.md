@@ -554,13 +554,6 @@ I am based in Ottawa, Canada. Feel free to connect with me:
    <br> Use React Native to build native iOS and Android Apps - incl. Push Notifications, Hooks, Redux.
   </p>
 
-  <p><strong> ☑️ Next JS & Open AI / GPT</strong>&nbsp&nbsp&nbsp
-    <a href="https://www.udemy.com/course/next-js-ai/learn/lecture/36383544?start=15#overview" target="_blank">
-      <img src="images/udemy.svg" width="50px" height="20px">
-   </a>
-  <br>Build an SEO-friendly blog post gen app with auth0, GPT, stripe payments, Tailwind, & MongoDB
-  </p>
-
   <p><strong> ☑️ Typescript: The Complete Developer's Guide</strong>&nbsp&nbsp&nbsp
     <a href="https://www.udemy.com/course/typescript-the-complete-developers-guide/" target="_blank">
       <img src="images/udemy.svg" width="50px" height="20px">
@@ -588,6 +581,13 @@ I am based in Ottawa, Canada. Feel free to connect with me:
       <img src="images/udemy.svg" width="50px" height="20px">
    </a>
    <br> Build fullstack React.js applications with Node.js, Express.js & MongoDB (MERN). Also learn how to add file upload, authentication, authorization and how to deploy your application in different ways to different hosting services.
+  </p>
+
+  <p><strong> ✅ Next JS & Open AI / GPT</strong>&nbsp&nbsp&nbsp
+    <a href="https://www.udemy.com/course/next-js-ai/learn/lecture/36383544?start=15#overview" target="_blank">
+      <img src="images/udemy.svg" width="50px" height="20px">
+   </a>
+  <br>Build an SEO-friendly blog post gen app with auth0, GPT, stripe payments, Tailwind, & MongoDB
   </p>
 
   <p><strong> ✅ JavaScript: The Advanced Concepts</strong>&nbsp&nbsp&nbsp
