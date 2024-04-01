@@ -74,6 +74,12 @@ I am based in Ottawa, Canada. Feel free to connect with me:
         <br/><strong>React</strong>
       </td>
             <td align="center" height="108" width="108">
+        <a href="https://reactnative.dev/">
+          <img src="images/react.png" width="48" height="48" alt="REACT"/>
+        </a>
+        <br/><strong>React Native</strong>
+      </td>
+            <td align="center" height="108" width="108">
         <a href="https://redux.js.org/">
           <img src="images/redux.png" width="48" height="48" alt="Redux"/>
         </a>
@@ -96,12 +102,12 @@ I am based in Ottawa, Canada. Feel free to connect with me:
         </a>
         <br/><strong>React Query</strong>
       </td>
-      <td align="center" height="108" width="108">
+      <!-- <td align="center" height="108" width="108">
         <a href="https://jquery.com/">
           <img src="images/jquery.svg" width="48" height="48" alt="JQUERY"/>
         </a>
         <br/><strong>jQuery</strong>
-      </td>
+      </td> -->
     </tr>
     <tr> <!-- line 3 -->
       <td align="center" height="108" width="108">
