@@ -3,9 +3,7 @@
 </div>
 
 </br>
-Proficient and skilled Full-stack developer with a commitment to continuous professional
-development. I am passionate about creating intuitive web applications and enjoy diving into new engrossing projects. My background in business analysis, banking, and property appraisal gives me a splendid combination of skills and
-knowledge, enabling me to take a holistic approach to challenges.
+Proficient and skilled Full-stack developer with a commitment to continuous professional development. I am passionate about creating intuitive web applications and enjoy diving into new engrossing projects. My background in business analysis, banking, and property appraisal gives me a splendid combination of skills and knowledge, enabling me to take a holistic approach to challenges.
 
 You can find more information regarding my skills and experience in my resume.
 <a href="https://flowcv.com/resume/95vgl16kej"><img width="38px" src="images/cv.png" onmouseover='this.src="images/discord.png"' onmouseout="this.src='images/cv-black.png'"></a>
@@ -74,12 +72,6 @@ I am based in Ottawa, Canada. Feel free to connect with me:
         <br/><strong>React</strong>
       </td>
             <td align="center" height="108" width="108">
-        <a href="https://reactnative.dev/">
-          <img src="images/react.png" width="48" height="48" alt="REACT"/>
-        </a>
-        <br/><strong>React Native</strong>
-      </td>
-            <td align="center" height="108" width="108">
         <a href="https://redux.js.org/">
           <img src="images/redux.png" width="48" height="48" alt="Redux"/>
         </a>
@@ -110,13 +102,27 @@ I am based in Ottawa, Canada. Feel free to connect with me:
       </td> -->
     </tr>
     <tr> <!-- line 3 -->
-      <td align="center" height="108" width="108">
+          <td align="center" height="108" width="108">
         <a href="https://nextjs.org/">
           <img src="images/next.png" width="48" height="48" alt="Next.js"/>
         </a>
         <br/><strong>Next.js</strong>
-      </td>      
-            <td align="center" height="108" width="108">
+      </td>
+      <td align="center" height="108" width="108">
+        <a href="https://reactnative.dev/">
+          <img src="images/react.png" width="48" height="48" alt="REACT"/>
+        </a>
+        <br/><strong>React Native</strong>
+      </td>
+      <td align="center" height="108" width="108">
+        <a href="https://reactnavigation.org/">
+          <img src="images/reactnav.svg" width="48" height="48" alt="Next.js"/>
+        </a>
+        <br/><strong>React Navigation</strong>
+      </td>
+    </tr>
+    <tr> <!-- line 4 -->     
+      <td align="center" height="108" width="108">
         <a href="https://getbootstrap.com/">
           <img src="images/bootstrap.png" width="48" height="48" alt="Bootstrap"/>
         </a>
@@ -153,7 +159,7 @@ I am based in Ottawa, Canada. Feel free to connect with me:
         <br/><strong>Material UI</strong>
       </td>
     </tr>
-      <tr> <!-- line 4 -->
+      <tr> <!-- line 5 -->
       <td><strong>Backend:</strong></td>
             <td align="center" height="108" width="108">
         <a href="https://nodejs.org/en">
@@ -192,7 +198,7 @@ I am based in Ottawa, Canada. Feel free to connect with me:
         <br/><strong>Mongoose</strong>
       </td>  
     </tr>
-    <tr> <!-- line 5 -->
+    <tr> <!-- line 6 -->
       <td><strong>Useful libraries:</strong></td>
             <td align="center" height="108" width="108">
         <a href="https://react-icons.github.io/react-icons">
@@ -231,8 +237,8 @@ I am based in Ottawa, Canada. Feel free to connect with me:
         <br/><strong>Three.js</strong>
       </td>
       </tr>
-          <tr> <!-- line 6 -->
-            <td align="center" height="108" width="108">
+      <tr> <!-- line 7 -->
+        <td align="center" height="108" width="108">
         <a href="https://www.fusioncharts.com/">
           <img src="images/fusion.jpg" width="50" height="48" alt="FusionCharts"/>
         </a>
@@ -269,7 +275,7 @@ I am based in Ottawa, Canada. Feel free to connect with me:
         <br/><strong>Auth0</strong>       
         </td>
     </tr>     
-    <tr> <!-- line 7 -->
+    <tr> <!-- line 8 -->
       <td><strong>Testing:</strong></td>
       <td align="center" height="108" width="108">
         <a href="https://www.cypress.io/">
@@ -300,7 +306,7 @@ I am based in Ottawa, Canada. Feel free to connect with me:
         <br/><strong>RSpec</strong>
       </td>
     </tr>
-    <tr> <!-- line 8 -->
+    <tr> <!-- line 9 -->
       <td><strong>Design:</strong></td>
       <td align="center" height="108" min-width="108">
         <img src="images/photoshop.svg" width="48" height="48" alt="PHOTOSHOP"/>
@@ -325,7 +331,7 @@ I am based in Ottawa, Canada. Feel free to connect with me:
         <br/><strong>Coolors</strong>
       </td>
     </tr>
-        <tr> <!-- line 9 -->
+        <tr> <!-- line 10 -->
       <td><strong>Deploying:</strong></td>
       <td align="center" height="108" min-width="108">
       <a href="https://www.netlify.com/">
@@ -352,7 +358,7 @@ I am based in Ottawa, Canada. Feel free to connect with me:
         <br/><strong>Render</strong>
       </td>
     </tr>
-    <tr> <!-- line 10 -->
+    <tr> <!-- line 11 -->
       <td><strong>Tools, Code editing etc.:</strong></td>
       <td align="center" height="108" min-width="108">
         <img src="images/git.png" width="48" height="48" alt="Git"/>
