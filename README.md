@@ -585,6 +585,13 @@ I am based in Ottawa, Canada. Feel free to connect with me:
    <br> Use React Native to build native iOS and Android Apps - incl. Push Notifications, Hooks, Redux.
   </p>
 
+  <p><strong> ☑️ The Ultimate DevOps Bootcamp</strong>&nbsp&nbsp&nbsp
+    <a href="https://www.udemy.com/course/the-complete-devops-bootcamp/learn/lecture/35714080?start=0#overview" target="_blank">
+      <img src="images/udemy.svg" width="50px" height="20px">
+   </a>
+   <br> This course includes: DevOps Overview, Linux Basics, Networking Basics, Applications Basics, Introduction to Git, Docker and Containers, Container Orchestration, Kubernetes Concepts, Learn IaC with Terraform, Basic Python programming
+  </p>
+
   <p><strong> ☑️ Typescript: The Complete Developer's Guide</strong>&nbsp&nbsp&nbsp
     <a href="https://www.udemy.com/course/typescript-the-complete-developers-guide/" target="_blank">
       <img src="images/udemy.svg" width="50px" height="20px">
