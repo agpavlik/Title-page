@@ -33,35 +33,35 @@ I am based in Ottawa, Canada. Feel free to connect with me:
   <table>  
     <tr><strong>Languages:</strong></tr>     
       <tr> <!-- line 1 -->
-      <td align="center" height="108" width="108">
-        <a href="https://www.javascript.com/">
-          <img src="images/javascript.svg" width="48" height="48" alt="JAVASCRIPT"/>
-        </a>
-        <br/><strong>JavaScript</strong>
-      </td>
-      <td align="center" height="108" width="108">
-        <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-          <img src="images/html.svg" width="48" height="48" alt="HTML"/>
-        </a>
-        <br/><strong>HTML</strong>
-      </td>
-      <td align="center" height="108" width="108">
-        <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-          <img src="images/css.svg" width="48" height="48" alt="CSS"/>
-        </a>
-        <br/><strong>CSS</strong>
-      </td>
-      <td align="center" height="108" width="108">
-        <a href="https://rubyonrails.org/">
-          <img src="images/ruby.png" width="48" height="48" alt="RUBY"/>
-        </a>
-        <br/><strong>Ruby</strong>
-      </td>
-      <td align="center" height="108" width="108">
-        <a href="https://developer.mozilla.org/en-US/docs/Glossary/SQL"><img src="images/sql.png" width="48" height="48" alt="SQL"/>
-        </a>
-        <br/><strong>SQL</strong>
-      </td>
+        <td align="center" height="108" width="108">
+          <a href="https://www.javascript.com/">
+            <img src="images/javascript.svg" width="48" height="48" alt="JAVASCRIPT"/>
+          </a>
+          <br/><strong>JavaScript</strong>
+        </td>
+        <td align="center" height="108" width="108">
+          <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+            <img src="images/html.svg" width="48" height="48" alt="HTML"/>
+          </a>
+          <br/><strong>HTML</strong>
+        </td>
+        <td align="center" height="108" width="108">
+          <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+            <img src="images/css.svg" width="48" height="48" alt="CSS"/>
+          </a>
+          <br/><strong>CSS</strong>
+        </td>
+        <td align="center" height="108" width="108">
+          <a href="https://rubyonrails.org/">
+            <img src="images/ruby.png" width="48" height="48" alt="RUBY"/>
+          </a>
+          <br/><strong>Ruby</strong>
+        </td>
+        <td align="center" height="108" width="108">
+          <a href="https://developer.mozilla.org/en-US/docs/Glossary/SQL"><img src="images/sql.png" width="48" height="48" alt="SQL"/>
+          </a>
+          <br/><strong>SQL</strong>
+        </td>
     </tr>
   </table> 
   <table> 
@@ -96,20 +96,6 @@ I am based in Ottawa, Canada. Feel free to connect with me:
         </a>
         <br/><strong>React Query</strong>
       </td>
-            <td align="center" height="108" width="108">
-        <a href="https://nextjs.org/">
-          <img src="images/next.png" width="48" height="48" alt="Next.js"/>
-        </a>
-        <br/><strong>Next.js</strong>
-      </td>
-      <!-- <td align="center" height="108" width="108">
-        <a href="https://jquery.com/">
-          <img src="images/jquery.svg" width="48" height="48" alt="JQUERY"/>
-        </a>
-        <br/><strong>jQuery</strong>
-      </td> -->
-    </tr>
-    <tr> <!-- line 3 -->
       <td align="center" height="108" width="108">
         <a href="https://reactnative.dev/">
           <img src="images/react.png" width="48" height="48" alt="REACT"/>
@@ -121,9 +107,21 @@ I am based in Ottawa, Canada. Feel free to connect with me:
           <img src="images/reactnav.svg" width="48" height="48" alt="Next.js"/>
         </a>
         <br/><strong>React Navigation</strong>
-      </td>      
+      </td>
+      <!-- <td align="center" height="108" width="108">
+        <a href="https://jquery.com/">
+          <img src="images/jquery.svg" width="48" height="48" alt="JQUERY"/>
+        </a>
+        <br/><strong>jQuery</strong>
+      </td> -->
     </tr>
-    <tr> <!-- line 4 -->
+    <tr> <!-- line 3 -->
+    <td align="center" height="108" width="108">
+        <a href="https://nextjs.org/">
+          <img src="images/next.png" width="48" height="48" alt="Next.js"/>
+        </a>
+        <br/><strong>Next.js</strong>
+      </td>
       <td align="center" height="108" width="108">
         <a href="https://getbootstrap.com/">
           <img src="images/bootstrap.png" width="48" height="48" alt="Bootstrap"/>
@@ -164,7 +162,7 @@ I am based in Ottawa, Canada. Feel free to connect with me:
     </table>
     <table>
       <tr><strong>Backend:</strong></tr>
-        <tr> <!-- line 5 -->
+        <tr> <!-- line 4 -->
             <td align="center" height="108" width="108">
         <a href="https://nodejs.org/en">
           <img src="images/node.png" width="42" height="48" alt="Nodejs"/>
@@ -205,8 +203,14 @@ I am based in Ottawa, Canada. Feel free to connect with me:
     </table>
     <table>
       <tr><strong>Useful libraries:</strong></tr>
-      <tr> <!-- line 7 -->
-            <td align="center" height="108" width="108">
+      <tr> <!-- line 5 -->
+        <td align="center" height="108" width="108">
+        <a href="https://auth0.com/">
+          <img src="images/auth.png" width="48" height="48" alt="Auth0"/>
+        </a>
+        <br/><strong>Auth0</strong>
+        </td>
+        <td align="center" height="108" width="108">
         <a href="https://react-icons.github.io/react-icons">
           <img src="images/react-icons.svg" width="48" height="48" alt="React Icons"/>
         </a>
@@ -243,7 +247,7 @@ I am based in Ottawa, Canada. Feel free to connect with me:
         <br/><strong>Three.js</strong>
       </td>
       </tr>
-      <tr> <!-- line 7 -->
+      <tr> <!-- line 6 -->
         <td align="center" height="108" width="108">
         <a href="https://www.fusioncharts.com/">
           <img src="images/fusion.jpg" width="50" height="48" alt="FusionCharts"/>
@@ -274,17 +278,11 @@ I am based in Ottawa, Canada. Feel free to connect with me:
         </a>
         <br/><strong>OpenAI</strong>
         </td>
-          <td align="center" height="108" width="108">
-        <a href="https://auth0.com/">
-          <img src="images/auth.png" width="48" height="48" alt="Auth0"/>
-        </a>
-        <br/><strong>Auth0</strong>
-        </td>
     </tr>
     </table>
     <table>
       <tr><strong>Testing:</strong></tr>
-      <tr> <!-- line 8 -->
+      <tr> <!-- line 7 -->
       <td align="center" height="108" width="108">
         <a href="https://www.cypress.io/">
           <img src="images/cypress.png" width="48" height="48" alt="CYPRESS"/>
@@ -319,7 +317,7 @@ I am based in Ottawa, Canada. Feel free to connect with me:
     </table>
     <table>
       <tr><strong>Design:</strong></tr>
-      <tr> <!-- line 9 -->
+      <tr> <!-- line 8 -->
       <td align="center" height="108" width="108">
         <img src="images/photoshop.svg" width="48" height="48" alt="PHOTOSHOP"/>
         <br/><strong>Photoshop</strong>
@@ -342,12 +340,11 @@ I am based in Ottawa, Canada. Feel free to connect with me:
         </a>
         <br/><strong>Coolors</strong>
       </td>
-
     </tr>
     </table>
     <table>
       <tr><strong>Deploying:</strong></tr>
-      <tr> <!-- line 10 -->
+      <tr> <!-- line 9 -->
       <td align="center" height="108" width="108">
       <a href="https://www.netlify.com/">
         <img src="images/netlify.svg" width="48" height="48" alt="NETLIFY"/>
@@ -376,7 +373,7 @@ I am based in Ottawa, Canada. Feel free to connect with me:
     </table>
     <table>
       <tr><strong>Tools, Code editing etc.:</strong></tr>
-          <tr> <!-- line 11 -->
+          <tr> <!-- line 10 -->
       <td align="center" height="108" width="108">
         <img src="images/git.png" width="48" height="48" alt="Git"/>
         <br /><strong>Git</strong>
