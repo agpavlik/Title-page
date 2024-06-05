@@ -311,8 +311,6 @@ I am based in Ottawa, Canada. Feel free to connect with me:
         </a>
         <br/><strong>RSpec</strong>
       </td>
-      <td align="center" height="108" width="108">
-      </td>
     </tr>
     </table>
     <table>
