@@ -62,7 +62,6 @@ I am based in Ottawa, Canada. Feel free to connect with me:
         </a>
         <br/><strong>SQL</strong>
       </td>
-      <td align="center" height="108" width="108"></td>
     </tr>
   </table> 
   <table> 
@@ -321,53 +320,53 @@ I am based in Ottawa, Canada. Feel free to connect with me:
     <table>
       <tr><strong>Design:</strong></tr>
       <tr> <!-- line 9 -->
-      <td align="center" height="108" min-width="108">
+      <td align="center" height="108" width="108">
         <img src="images/photoshop.svg" width="48" height="48" alt="PHOTOSHOP"/>
         <br/><strong>Photoshop</strong>
       </td>
-      <td align="center" height="108" min-width="108">
+      <td align="center" height="108" width="108">
         <a href="https://www.figma.com/">
           <img src="images/figma.png" width="48" height="48" alt="FIGMA"/>
         </a>
         <br/><strong>Figma</strong>
       </td>
-      <td align="center" height="108" min-width="108">
+      <td align="center" height="108" width="108">
         <a href="https://krita.org/en/">
           <img src="images/krita.svg" width="48" height="48" alt="KRITA"/>
         </a>
         <br/><strong>Krita</strong>
       </td>
-      <td align="center" height="108" min-width="108">
+      <td align="center" height="108" width="108">
         <a href="https://coolors.co/">
           <img src="images/coolors.svg" width="60" height="48" alt="Coolors"/>
         </a>
         <br/><strong>Coolors</strong>
       </td>
-      <td align="center" height="108" min-width="108">
+
     </tr>
     </table>
     <table>
       <tr><strong>Deploying:</strong></tr>
       <tr> <!-- line 10 -->
-      <td align="center" height="108" min-width="108">
+      <td align="center" height="108" width="108">
       <a href="https://www.netlify.com/">
         <img src="images/netlify.svg" width="48" height="48" alt="NETLIFY"/>
         </a>
         <br/><strong>Netlify</strong>
       </td>
-      <td align="center" height="108" min-width="108">
+      <td align="center" height="108" width="108">
         <a href="https://www.vercel.com/">
           <img src="images/vercel.jpg" width="48" height="48" alt="VERCEL"/>
         </a>
         <br/><strong>Vercel</strong>
       </td>
-      <td align="center" height="108" min-width="108">
+      <td align="center" height="108" width="108">
         <a href="https://cloud.digitalocean.com/">
           <img src="images/do.png" width="48" height="48" alt="DIGITAL OCEAN"/>
         </a>
         <br/><strong>Digital Ocean</strong>
       </td>
-      <td align="center" height="108" min-width="108">
+      <td align="center" height="108" width="108">
       <a href="https://render.com/">
         <img src="images/render.png" width="48" height="48" alt="Render"/>
         </a>
@@ -378,39 +377,40 @@ I am based in Ottawa, Canada. Feel free to connect with me:
     <table>
       <tr><strong>Tools, Code editing etc.:</strong></tr>
           <tr> <!-- line 11 -->
-      <td align="center" height="108" min-width="108">
+      <td align="center" height="108" width="108">
         <img src="images/git.png" width="48" height="48" alt="Git"/>
         <br /><strong>Git</strong>
       </td>
-      <td align="center" height="108" min-width="108">
+      <td align="center" height="108" width="108">
         <a href="https://code.visualstudio.com/">
           <img src="images/vs.png" width="48" height="48" alt="VSCODE"/>
         </a>
         <br/><strong>VS Code</strong>
       </td>
-      <td align="center" height="108" min-width="108">
+      <td align="center" height="108" width="108">
         <a href="https://www.sublimetext.com/">
           <img src="images/sublime.png" width="48" height="48" alt="Sublime"/>
         </a>
         <br/><strong>Sublime</strong>
       </td>
-      <td align="center" height="108" min-width="108">
+      <td align="center" height="108" width="108">
         <a href="https://vitejs.dev/">
           <img src="images/vite.svg" width="48" height="48" alt="Vite"/>
         </a>
         <br/><strong>Vite</strong>
       </td>
-            <td align="center" height="108" min-width="108">
+            <td align="center" height="108" width="108">
         <a href="https://www.postman.com/">
           <img src="images/postman.svg" width="48" height="48" alt="Postman"/>
         </a>
         <br/><strong>Postman</strong>
       </td>
-            <td align="center" height="108" min-width="108">
+            <td align="center" height="108" width="108">
         <img src="images/linux.svg" width="48" height="48" alt="LINUX"/>
         <br/><strong>Linux</strong>
       </td>
     </tr>
+
   </table>
 </details>
 
