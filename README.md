@@ -502,6 +502,47 @@ I am based in Ottawa, Canada. Feel free to connect with me:
 <!-- 7 project -->
 <tr>
   <td width="50%" bordercolor="#66b2b2" valign="top">
+    <h3 align="center">Gourmand</h3>
+    
+![](https://github.com/agpavlik/Gourmand/blob/main/assets/page.png)
+
+  <a href="https://github.com/agpavlik/Gourmand" target="_blank">
+      <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github">
+    </a>  
+      <p><strong>React Native, React Navigation, Redux, Expo</strong></p>
+      <p>Cooking recipies application built with React Native.</p>
+  </td>
+<!-- 8 project -->
+  <td width="50%" bordercolor="#66b2b2" valign="top">
+    <h3 align="center">Flashback-Up</h3>
+    
+![](https://github.com/agpavlik/fav-loc/blob/main/assets/page.png)
+
+  <a href="https://github.com/agpavlik/fav-loc" target="_blank">
+      <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github">
+    </a>  
+      <p><strong>React Native, Expo, Expo-sqlite, Expo-location, Expo-image-picker, Expo-app-loading, React Navigation, React-Native-Map</strong></p>
+      <p>The application allows users to collect and manage information about their favorite places visited.</p>
+  </td>
+</tr>
+
+<!-- 9 project -->
+<tr>
+  <td width="50%" bordercolor="#66b2b2" valign="top">
+    <h3 align="center">Flashback-Up</h3>
+    
+![](https://github.com/agpavlik/ExpenSee/blob/main/assets/page.png)
+
+  <a href="https://github.com/agpavlik/ExpenSee" target="_blank">
+      <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github">
+    </a>  
+      <p><strong>React Native, Expo, React Navigation, Firebase, Fetch</strong></p>
+      <p>React Native app allows to manage expenses.</p>
+    </td>
+<!-- 10 project -->
+
+<tr>
+  <td width="50%" bordercolor="#66b2b2" valign="top">
     <h3 align="center">MythiCare</h3>
 <img src="https://github.com/agpavlik/LHL-project-MythiCare/blob/main/docs/Screenshot_13.png" width="100%">
 
@@ -511,8 +552,9 @@ I am based in Ottawa, Canada. Feel free to connect with me:
       <p><strong>React, Bootstrap, Node, Express, PostgreSQL</strong></p>
       <p>A pet sitting app where you can find or become a sitter for the pets.</p>
     </td>
-
-<!-- 8 project -->
+</tr>
+<!-- 11 project -->
+<tr>
 <td width="50%" valign="top">
       <h3 align="center">Jungle</h3>
 
@@ -524,10 +566,8 @@ I am based in Ottawa, Canada. Feel free to connect with me:
     <p><strong>Ruby on Rails, PostgreSQL, Strap</strong></p>
     <p>A mini e-commerce application. Plants and flowers online shop.</p>
   </td>
-  </tr>
 
-<!-- 9 project -->
-<tr>
+<!-- 12 project -->
   <td width="50%" bordercolor="#66b2b2" valign="top">
     <h3>PhotoLabs</h3>
 
@@ -539,8 +579,9 @@ I am based in Ottawa, Canada. Feel free to connect with me:
       <p><strong>React, Bootstrap, Node, Express, MongoDB</strong></p>
       <p>A React-based SPA that allows users to view photos in different contexts.</p>
     </td>
-
-<!-- 10 project -->
+</tr>
+<!-- 13 project -->
+<tr>
   <td width="50%" bordercolor="#66b2b2" valign="top">
     <h3 align="center">React Quiz</h3>
     
@@ -552,9 +593,7 @@ I am based in Ottawa, Canada. Feel free to connect with me:
       <p><strong>React, Reducer</strong></p>
       <p>A little quiz</p>
     </td>
-</tr>
-<!-- 11 project -->
-<tr>
+<!-- 14 project -->
 <td width="50%" valign="top">
       <h3 align="center">Tweeter</h3>
 
@@ -566,8 +605,9 @@ I am based in Ottawa, Canada. Feel free to connect with me:
     <p><strong>HTML, CSS, JS, jQuery, Express, Node</strong></p>
     <p>Tweeter is a simple, single-page Twitter clone. </p>
   </td>
-
-<!-- 12 project -->
+</tr>
+<!-- 15 project -->
+<tr>
   <td width="50%" bordercolor="#66b2b2" valign="top">
     <h3>TinyApp</h3>
 
