@@ -648,7 +648,7 @@ I am based in Ottawa, Canada. Feel free to connect with me:
 ---
 
 <details>
-  <summary style="font-size:24px"> Completed Cources ✅ </summary>
+  <summary style="font-size:24px"> Completed Courses ✅ </summary>
 <br>
 
   <p><strong> ✅ React Native - The Practical Guide [2024]</strong>&nbsp&nbsp&nbsp
