@@ -514,7 +514,7 @@ I am based in Ottawa, Canada. Feel free to connect with me:
   </td>
 <!-- 8 project -->
   <td width="50%" bordercolor="#66b2b2" valign="top">
-    <h3 align="center">Flashback-Up</h3>
+    <h3 align="center">Fav-Loc</h3>
     
 ![](https://github.com/agpavlik/fav-loc/blob/main/assets/page.png)
 
@@ -529,7 +529,7 @@ I am based in Ottawa, Canada. Feel free to connect with me:
 <!-- 9 project -->
 <tr>
   <td width="50%" bordercolor="#66b2b2" valign="top">
-    <h3 align="center">Flashback-Up</h3>
+    <h3 align="center">ExpenSee</h3>
     
 ![](https://github.com/agpavlik/ExpenSee/blob/main/assets/page.png)
 
@@ -540,8 +540,6 @@ I am based in Ottawa, Canada. Feel free to connect with me:
       <p>React Native app allows to manage expenses.</p>
     </td>
 <!-- 10 project -->
-
-<tr>
   <td width="50%" bordercolor="#66b2b2" valign="top">
     <h3 align="center">MythiCare</h3>
 <img src="https://github.com/agpavlik/LHL-project-MythiCare/blob/main/docs/Screenshot_13.png" width="100%">
