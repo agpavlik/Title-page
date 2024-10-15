@@ -629,6 +629,13 @@ I am based in Ottawa, Canada. Feel free to connect with me:
   <summary style="font-size:24px"> I am currently learning 📝 </summary>
 <br>
 
+  <p><strong> ☑️ DevOps and Software Engineering Professional Certificate</strong>&nbsp&nbsp&nbsp
+    <a href="https://www.coursera.org/programs/ictc-beyond-the-cloud-intake-2-eata4/professional-certificates/devops-and-software-engineering" target="_blank">
+      <img src="images/ibm.png" width="50px" height="20px">
+   </a>
+   <br> Master DevOps, Agile, Scrum, CI/CD and Cloud Native with hands-on job-ready skills.
+  </p>
+
   <p><strong> ☑️ The Ultimate DevOps Bootcamp</strong>&nbsp&nbsp&nbsp
     <a href="https://www.udemy.com/course/the-complete-devops-bootcamp/learn/lecture/35714080?start=0#overview" target="_blank">
       <img src="images/udemy.svg" width="50px" height="20px">
