@@ -52,15 +52,21 @@ I am based in Ottawa, Canada. Feel free to connect with me:
           <br/><strong>CSS</strong>
         </td>
         <td align="center" height="108" width="108">
-          <a href="https://rubyonrails.org/">
-            <img src="images/ruby.png" width="48" height="48" alt="RUBY"/>
+          <a href="www.python.org">
+            <img src="images/python.png" width="48" height="48" alt="RUBY"/>
           </a>
-          <br/><strong>Ruby</strong>
+          <br/><strong>Python</strong>
         </td>
         <td align="center" height="108" width="108">
           <a href="https://developer.mozilla.org/en-US/docs/Glossary/SQL"><img src="images/sql.png" width="48" height="48" alt="SQL"/>
           </a>
           <br/><strong>SQL</strong>
+        </td>
+        <td align="center" height="108" width="108">
+          <a href="https://rubyonrails.org/">
+            <img src="images/ruby.png" width="48" height="48" alt="RUBY"/>
+          </a>
+          <br/><strong>Ruby</strong>
         </td>
     </tr>
   </table> 
@@ -416,6 +422,7 @@ I am based in Ottawa, Canada. Feel free to connect with me:
 
 <section align="center">
 <table bordercolor="#66b2b2">
+
 <!-- 1 project -->
   <tr>
     <tr>
