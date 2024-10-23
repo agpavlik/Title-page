@@ -426,7 +426,8 @@ I am based in Ottawa, Canada. Feel free to connect with me:
   <tr>
     <tr>
     <td width="50%" bordercolor="#66b2b2" valign="top">
-    <h3 align="center">Riipen Project - Expiry Date Tracker</h3>
+    <h2 align="center">Riipen Project</h2>
+    <h3 align="center">Expiry Date Tracker</h3>
 
 <img src="images/riipen1.jpeg"/>
 <img src="images/riipen2.jpeg"/>
