@@ -434,14 +434,15 @@ I am based in Ottawa, Canada. Feel free to connect with me:
   <a href="https://www.riipen.com/" target="_blank">
     </a>  
       <p><strong>React, React Router, Axios, CSS, SASS, Bootstrap, Node.js, JWT, Mongoose, MongoDB Atlas, MongoDB Compass, Jest, Postman, Render</strong></p>
-      <p>MVP for a multi-phase Web App aimed at helping households manage their food inventory and reduce waste by tracking upcoming expiration dates.</p>
     </td>
 
 <!-- 0 project -->
 
 <td width="50%" valign="top" align="left">
+<p>MVP for a multi-phase Web App aimed at helping households manage their food inventory and reduce waste by tracking upcoming expiration dates.</p>
 <p>This project was done under the guidance of 𝘛𝘩𝘦 𝘯𝘵𝘩 𝘊𝘳𝘦𝘢𝘵𝘪𝘷𝘦, which is leading this social and environmental sustainability initiative as part of a new business venture.</p>
-<p>𝙆𝙚𝙮 𝙁𝙚𝙖𝙩𝙪𝙧𝙚𝙨 𝙄𝙢𝙥𝙡𝙚𝙢𝙚𝙣𝙩𝙚𝙙:
+<h4>Key features implemented:</h4>
+<ul>
 <li> Developed user registration and login functionality</li>
 <li>Implemented JSON Web Token authentication to secure user sessions</li>
 <li>Managed item creation, updates, and deletions using Axios for API interactions</li>
@@ -449,7 +450,7 @@ I am based in Ottawa, Canada. Feel free to connect with me:
 <li>Integrated sorting and filtering functionalities to allow users to organize items based on various criteria.</li>
 <li>Built RESTful APIs with a robust back-end structure to handle all CRUD operations effectively.</li>
 <li>Set up and manage database collections using a cloud-based database solution.</li>
-</p>
+</ul>
   </td>
   </tr>
 <!-- 1 project -->
