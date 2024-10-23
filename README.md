@@ -426,20 +426,21 @@ I am based in Ottawa, Canada. Feel free to connect with me:
   <tr>
     <tr>
     <td width="50%" bordercolor="#66b2b2" valign="top">
-    <h3 align="center">Riipen Project</h3>
+    <h3 align="center">Riipen Project - Expiry Date Tracker</h3>
 
-![](https://github.com/agpavlik/Oasis-Backside/blob/main/public/docs/demo45.gif)
+<img src="images/riipen1.jpeg"/>
+<img src="images/riipen2.jpeg"/>
 
   <a href="https://www.riipen.com/" target="_blank">
     </a>  
       <p><strong>React, React Router, Axios, CSS, SASS, Bootstrap, Node.js, JWT, Mongoose, MongoDB Atlas, MongoDB Compass, Jest, Postman, Render</strong></p>
       <p>MVP for a multi-phase Web App aimed at helping households manage their food inventory and reduce waste by tracking upcoming expiration dates.</p>
-      <p>This project was done under the guidance of 𝘛𝘩𝘦 𝘯𝘵𝘩 𝘊𝘳𝘦𝘢𝘵𝘪𝘷𝘦, which is leading this social and environmental sustainability initiative as part of a new business venture.</p>
     </td>
 
 <!-- 0 project -->
 
 <td width="50%" valign="top" align="left">
+<p>This project was done under the guidance of 𝘛𝘩𝘦 𝘯𝘵𝘩 𝘊𝘳𝘦𝘢𝘵𝘪𝘷𝘦, which is leading this social and environmental sustainability initiative as part of a new business venture.</p>
 <p>𝙆𝙚𝙮 𝙁𝙚𝙖𝙩𝙪𝙧𝙚𝙨 𝙄𝙢𝙥𝙡𝙚𝙢𝙚𝙣𝙩𝙚𝙙:
 <li> Developed user registration and login functionality</li>
 <li>Implemented JSON Web Token authentication to secure user sessions</li>
