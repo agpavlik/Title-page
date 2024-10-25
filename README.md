@@ -425,7 +425,7 @@ I am based in Ottawa, Canada. Feel free to connect with me:
 <!-- riipen project -->
   <tr>
     <tr>
-    <td width="50%" bordercolor="#66b2b2" valign="top">
+    <td width="100%" bordercolor="#66b2b2" valign="top">
     <h3 align="center">Riipen Project - Expiry Date Tracker</h3>
 
 <img src="images/riipen1.jpeg"/>
@@ -437,7 +437,7 @@ I am based in Ottawa, Canada. Feel free to connect with me:
 
 <!-- 0 project -->
 
-<td width="50%" valign="top" align="left">
+<td width="100%" valign="top" align="left">
 <p align="center"><strong>React, React Router, Axios, CSS, SASS, Bootstrap, Node.js, JWT, Mongoose, MongoDB Atlas, MongoDB Compass, Jest, Postman, Render</strong></p>
 <p>MVP for a multi-phase Web App aimed at helping households manage their food inventory and reduce waste by tracking upcoming expiration dates.</p>
 <p>This project was done under the guidance of 𝘛𝘩𝘦 𝘯𝘵𝘩 𝘊𝘳𝘦𝘢𝘵𝘪𝘷𝘦, which is leading this social and environmental sustainability initiative as part of a new business venture.</p>
