@@ -13,14 +13,14 @@ Also, you can uncover the set of technologies and tools I experienced with and i
 I am based in Ottawa, Canada. Feel free to connect with me:
 
 <p align="center" style="text-decoration:none">
-  <a href="https://www.linkedin.com/in/alex-pavlyk/"
+  <a href="https://www.linkedin.com/in/opavlyk/"
   target="_blank" rel="noreferrer">
     <img src="images/linkedin-one.png" width="38" height="38"/>
   </a>&nbsp&nbsp&nbsp&nbsp
   <a href="https://discordapp.com/users/1085667541902442638" target="_blank" rel="noreferrer">
     <img src="images/discord.png" width="38" height="38"/>
   </a>&nbsp&nbsp&nbsp&nbsp
-  <a href="mailto:olekpavlyk@gmail.com" target="_blank" rel="noreferrer">
+  <a href="mailto:pavlykolek@gmail.com" target="_blank" rel="noreferrer">
     <img src="images/gmail-one.png" width="38" height="38"/>
   </a>
 </p>
