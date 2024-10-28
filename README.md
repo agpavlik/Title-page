@@ -680,6 +680,13 @@ I am based in Ottawa, Canada. Feel free to connect with me:
    <br> This course includes: DevOps Overview, Linux Basics, Networking Basics, Applications Basics, Introduction to Git, Docker and Containers, Container Orchestration, Kubernetes Concepts, Learn IaC with Terraform, Basic Python programming
   </p>
 
+  <p><strong> ☑️ Web Design for Web Developers</strong>&nbsp&nbsp&nbsp
+    <a href="https://www.udemy.com/course/web-design-secrets/" target="_blank">
+      <img src="images/udemy.svg" width="50px" height="20px">
+   </a>
+   <br> The 25+ guidelines of amazing web design: simple rules and guidelines that go straight to the point.
+  </p>
+
   <p><strong> ☑️ Typescript: The Complete Developer's Guide</strong>&nbsp&nbsp&nbsp
     <a href="https://www.udemy.com/course/typescript-the-complete-developers-guide/" target="_blank">
       <img src="images/udemy.svg" width="50px" height="20px">
