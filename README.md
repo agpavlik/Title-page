@@ -680,6 +680,13 @@ I am based in Ottawa, Canada. Feel free to connect with me:
    <br> This course includes: DevOps Overview, Linux Basics, Networking Basics, Applications Basics, Introduction to Git, Docker and Containers, Container Orchestration, Kubernetes Concepts, Learn IaC with Terraform, Basic Python programming
   </p>
 
+  <p><strong> ☑️ ChatGPT for developers: code, test, debug</strong>&nbsp&nbsp&nbsp
+    <a href="" target="_blank">
+      <img src="images/udemy.svg" width="50px" height="20px">
+   </a>
+   <br> use chat GPT for developer as a good free assistant
+  </p>
+
   <p><strong> ☑️ Web Design for Web Developers</strong>&nbsp&nbsp&nbsp
     <a href="https://www.udemy.com/course/web-design-secrets/" target="_blank">
       <img src="images/udemy.svg" width="50px" height="20px">
