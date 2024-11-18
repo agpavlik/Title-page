@@ -681,7 +681,7 @@ I am based in Ottawa, Canada. Feel free to connect with me:
   </p>
 
   <p><strong> ☑️ ChatGPT for developers: code, test, debug</strong>&nbsp&nbsp&nbsp
-    <a href="" target="_blank">
+    <a href="https://www.udemy.com/course/chatgpt-for-developers-code-test-debug-by-yan-hadzhyisky/" target="_blank">
       <img src="images/udemy.svg" width="50px" height="20px">
    </a>
    <br> use chat GPT for developer as a good free assistant
