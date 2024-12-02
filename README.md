@@ -668,7 +668,7 @@ I am based in Ottawa, Canada. Feel free to connect with me:
 
   <p><strong> ☑️ AI For Developers With GitHub Copilot, Cursor AI & ChatGPT</strong>&nbsp&nbsp&nbsp
     <a href="https://www.udemy.com/course/ai-for-developers-with-github-copilot-cursor-ai-chatgpt/learn/lecture/46484645#reviews" target="_blank">
-      <img src="images/ibm.png" width="50px" height="20px">
+      <img src="images/udemy.svg" width="50px" height="20px">
    </a>
    <br> Leverage AI to boost your productivity as a developer: Use GitHub Copilot, Cursor AI and ChatGPT for efficient coding
   </p>
