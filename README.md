@@ -666,6 +666,13 @@ I am based in Ottawa, Canada. Feel free to connect with me:
   <summary style="font-size:24px"> I am currently learning 📝 </summary>
 <br>
 
+  <p><strong> ☑️ AI For Developers With GitHub Copilot, Cursor AI & ChatGPT</strong>&nbsp&nbsp&nbsp
+    <a href="https://www.udemy.com/course/ai-for-developers-with-github-copilot-cursor-ai-chatgpt/learn/lecture/46484645#reviews" target="_blank">
+      <img src="images/ibm.png" width="50px" height="20px">
+   </a>
+   <br> Leverage AI to boost your productivity as a developer: Use GitHub Copilot, Cursor AI and ChatGPT for efficient coding
+  </p>
+
   <p><strong> ☑️ DevOps and Software Engineering Professional Certificate</strong>&nbsp&nbsp&nbsp
     <a href="https://www.coursera.org/programs/ictc-beyond-the-cloud-intake-2-eata4/professional-certificates/devops-and-software-engineering" target="_blank">
       <img src="images/ibm.png" width="50px" height="20px">
