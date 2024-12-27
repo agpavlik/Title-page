@@ -392,7 +392,7 @@ I am based in Ottawa, Canada. Feel free to connect with me:
         </td>
         <td align="center" height="108" width="108">
           <a href="https://chatgpt.com/">
-            <img src="images/chatgpt.png" width="48" height="48" alt="Git"/>
+            <img src="images/gpt.png" width="48" height="48" alt="Git"/>
           </a>
           <br /><strong>ChatGPT</strong>
         </td>
