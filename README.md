@@ -380,7 +380,7 @@ I am based in Ottawa, Canada. Feel free to connect with me:
       <tr> <!-- line 10 -->
         <td align="center" height="108" width="108">
           <a href="https://github.com/features/copilot">
-            <img src="images/gitcopilot.jpg" width="48" height="48" alt="Git"/>
+            <img src="images/githubcopilot.jpg" width="48" height="48" alt="Git"/>
           </a>
           <br /><strong>GitHub Copilot</strong>
         </td>
