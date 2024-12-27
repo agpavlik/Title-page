@@ -385,10 +385,10 @@ I am based in Ottawa, Canada. Feel free to connect with me:
           <br /><strong>GitHub Copilot</strong>
         </td>
         <td align="center" height="108" width="108">
-          <a href="https://render.com/">
-            <img src="images/gitcopilot.jpg" width="48" height="48" alt="Git"/>
+          <a href="https://www.cursor.com/">
+            <img src="images/cursor.png" width="48" height="48" alt="Git"/>
           </a>
-          <br /><strong>GitHub Copilot</strong>
+          <br /><strong>Cursor AI</strong>
         </td>
         <td align="center" height="108" width="108">
           <a href="https://chatgpt.com/">
