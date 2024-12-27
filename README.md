@@ -376,8 +376,31 @@ I am based in Ottawa, Canada. Feel free to connect with me:
     </tr>
     </table>
     <table>
+      <tr><strong>AI assistant:</strong></tr>
+      <tr> <!-- line 10 -->
+        <td align="center" height="108" width="108">
+          <a href="https://github.com/features/copilot">
+            <img src="images/gitcopilot.jpg" width="48" height="48" alt="Git"/>
+          </a>
+          <br /><strong>GitHub Copilot</strong>
+        </td>
+        <td align="center" height="108" width="108">
+          <a href="https://render.com/">
+            <img src="images/gitcopilot.jpg" width="48" height="48" alt="Git"/>
+          </a>
+          <br /><strong>GitHub Copilot</strong>
+        </td>
+        <td align="center" height="108" width="108">
+          <a href="https://chatgpt.com/">
+            <img src="images/gitcopilot.jpg" width="48" height="48" alt="Git"/>
+          </a>
+          <br /><strong>ChatGPT</strong>
+        </td>
+      </tr>
+    </table>
+    <table>
       <tr><strong>Tools, Code editing etc.:</strong></tr>
-          <tr> <!-- line 10 -->
+      <tr> <!-- line 11 -->
       <td align="center" height="108" width="108">
         <img src="images/git.png" width="48" height="48" alt="Git"/>
         <br /><strong>Git</strong>
