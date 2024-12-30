@@ -3,14 +3,14 @@
 </div>
 
 </br>
-Proficient and skilled Full-stack developer with a commitment to continuous professional development. I am passionate about creating intuitive web applications and enjoy diving into new engrossing projects. My background in business analysis, banking, and property appraisal gives me a splendid combination of skills and knowledge, enabling me to take a holistic approach to challenges.
+Proficient and skilled full-stack developer with a commitment to continuous professional development. I am passionate about creating intuitive web applications and enjoy diving into new engrossing projects. My background in business analysis, banking, and property appraisal gives me a splendid combination of skills and knowledge, enabling me to take a holistic approach to challenges.
 
 You can find more information regarding my skills and experience in my resume.
 <a href="https://flowcv.com/resume/95vgl16kej"><img width="38px" src="images/cv.png" onmouseover='this.src="images/discord.png"' onmouseout="this.src='images/cv-black.png'"></a>
 
 Also, you can uncover the set of technologies and tools I experienced with and implemented projects listed below.
 
-I am based in Ottawa, Canada. Feel free to connect with me:
+Feel free to connect with me:
 
 <p align="center" style="text-decoration:none">
   <a href="https://www.linkedin.com/in/opavlyk/"
